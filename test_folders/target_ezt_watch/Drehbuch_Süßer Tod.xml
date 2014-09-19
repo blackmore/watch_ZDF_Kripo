@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- file created by nigel.blackmore@titelbild.de -->
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:tts="http://www.w3.org/2006/10/ttaf1#styling">
+  <head>
+    <styling>
+      <style xml:id="default.left" tts:fontFamily="Arial" tts:fontSize="10px" tts:textAlign="left" tts:fontStyle="normal" tts:fontWeight="normal" tts:backgroundColor="transparent" tts:color="#FFFFFF"/>
+      <style xml:id="default.center" style="default.left" tts:textAlign="center"/>
+      <style xml:id="default.right" style="default.left" tts:textAlign="right"/>
+    </styling>
+  </head>
+  <body>
+    <div>
+      <p begin="36000.00s" end="36001.50" dur="1.50s" style="default.center" tts:direction="ltr">GELB SCHULTE </p>
+      <p begin="36001.66s" end="36003.16" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">GRUN REEDMACHER </span>
+      </p>
+      <p begin="36003.32s" end="36004.82" dur="1.50s" style="default.center" tts:direction="ltr">HEIDI LÜRSEN</p>
+      <p begin="36004.98s" end="36007.65" dur="2.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00"> Nein, es gibt nur diese eine Umleitung.</span>
+      </p>
+      <p begin="36007.81s" end="36010.14" dur="2.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Nein, hier ist die Kriminalpolizei.</span>
+      </p>
+      <p begin="36010.30s" end="36014.10" dur="3.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ja, der Kollege von der Landespolizei kümmert sich darum.</span>
+      </p>
+      <p begin="36014.26s" end="36016.66" dur="2.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Doch doch, der weiß, was da los ist.</span>
+      </p>
+      <p begin="36016.82s" end="36020.49" dur="3.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00"> Jau, trotzdem schönen Tach noch.  Moin, auch schon da?</span>
+      </p>
+      <p begin="36020.65s" end="36022.15" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Hör auf.</span>
+      </p>
+      <p begin="36022.31s" end="36029.31" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Seit die Scheiß Brücke gesperrt ist, brauch ich länger zur Arbeit als von Wedding nach Köpenick zur Rushhour.</span>
+      </p>
+      <p begin="36029.47s" end="36033.00" dur="3.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Gestern 4 km Stau, heute Morgen 5, Tendenz steigend. </span>
+      </p>
+      <p begin="36033.16s" end="36035.23" dur="2.07s" style="default.center" tts:direction="ltr">Wie wär's mit früher losfahren?</p>
+      <p begin="36035.39s" end="36036.89" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Du hast gut Reden.</span>
+      </p>
+      <p begin="36037.05s" end="36041.65" dur="4.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ihr beiden wohnt ja auf der richtigen Seite der verflixten Baustelle.</span>
+      </p>
+      <p begin="36041.81s" end="36045.21" dur="3.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF"> Was macht denn eigentlich deine Brückenbaustelle? </span>
+      </p>
+      <p begin="36045.37s" end="36047.57" dur="2.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Wann war noch der Zahnarzttermin?</span>
+      </p>
+      <p begin="36047.73s" end="36049.99" dur="2.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00"> Ja? Nein. Wissen wir. Wiederhörn.</span>
+      </p>
+      <p begin="36050.15s" end="36052.49" dur="2.33s" style="default.center" tts:direction="ltr">Das kann doch nicht so schwer sein.</p>
+      <p begin="36052.65s" end="36059.65" dur="7.00s" style="default.center" tts:direction="ltr">Seit drei Tagen haben wir diese verdammte Umleitung, und jeden Morgen stehe ich hier und muss euch vorbeten, dass ihr die Ware in der neuen Reihenfolge packen sollt.</p>
+      <p begin="36059.81s" end="36063.34" dur="3.53s" style="default.center" tts:direction="ltr">Nicht aufregen Chef, ist schlecht für die Gesundheit.</p>
+      <p begin="36063.50s" end="36065.03" dur="1.53s" style="default.center" tts:direction="ltr">sacht meine Frau immer.</p>
+      <p begin="36065.19s" end="36069.59" dur="4.40s" style="default.center" tts:direction="ltr">Wir sind total gut inne Zeit – zwei Touren sind doch schon runter.</p>
+      <p begin="36069.75s" end="36074.42" dur="4.67s" style="default.center" tts:direction="ltr">Außerdem hab ich der Kollegin gesagt, ich sortier' mir das selber hin.</p>
+      <p begin="36074.58s" end="36076.65" dur="2.07s" style="default.center" tts:direction="ltr">Wenigstens einer, der mitdenkt.</p>
+      <p begin="36076.81s" end="36079.94" dur="3.13s" style="default.center" tts:direction="ltr">Fragst du Bernd das Brot, kommst du nie in Not.</p>
+      <p begin="36080.10s" end="36083.17" dur="3.07s" style="default.center" tts:direction="ltr">Ich weiß, wie man mit dem Cheffe umgehen muss.</p>
+      <p begin="36083.33s" end="36086.26" dur="2.93s" style="default.center" tts:direction="ltr">Und die. sind fürs zweite Frühstück, to Hus.</p>
+      <p begin="36086.42s" end="36087.92" dur="1.50s" style="default.center" tts:direction="ltr">Moinsen.</p>
+      <p begin="36088.08s" end="36089.58" dur="1.50s" style="default.center" tts:direction="ltr">Jau, du mich auch.</p>
+      <p begin="36089.74s" end="36091.47" dur="1.73s" style="default.center" tts:direction="ltr"> Was willst du denn hier? </p>
+      <p begin="36091.63s" end="36094.97" dur="3.33s" style="default.center" tts:direction="ltr">Euch ein paar frische Eiderstedt-Brötchen liefern.</p>
+      <p begin="36095.13s" end="36098.53" dur="3.40s" style="default.center" tts:direction="ltr">Damit ihr endlich mal was Gutes zum Verkaufen habt.</p>
+      <p begin="36098.69s" end="36101.35" dur="2.67s" style="default.center" tts:direction="ltr">– Nee, im Ernst: Gib mal'n Pfund Kaffee.</p>
+      <p begin="36101.51s" end="36106.45" dur="4.93s" style="default.center" tts:direction="ltr">Hab gehört, dass mein Chef euch 'n Angebot gemacht hat für den Laden hier?</p>
+      <p begin="36106.61s" end="36108.11" dur="1.50s" style="default.center" tts:direction="ltr">Ey, hallo.</p>
+      <p begin="36108.27s" end="36109.77" dur="1.50s" style="default.center" tts:direction="ltr">Ich red' mit dir.</p>
+      <p begin="36109.93s" end="36116.93" dur="7.00s" style="default.center" tts:direction="ltr">Na, wenn das eure Art von Kundenfreundlichkeit ist, denn wundert mich auch nicht, dass der Laden immer leer ist und ihr auf keinen grünen Zweig mehr kommt.</p>
+      <p begin="36117.09s" end="36118.59" dur="1.50s" style="default.center" tts:direction="ltr">Sechszwanzig. </p>
+      <p begin="36118.75s" end="36122.95" dur="4.20s" style="default.center" tts:direction="ltr"> Sechszwanzig? Geht's noch? Zwei Takken mehr als im Supermarkt?</p>
+      <p begin="36123.11s" end="36124.61" dur="1.50s" style="default.center" tts:direction="ltr"> Dann kauf doch da. </p>
+      <p begin="36124.77s" end="36129.57" dur="4.80s" style="default.center" tts:direction="ltr"> Sach mal, Mädel, wie red'st du eigentlich mit mir? Dir müsste man mal. </p>
+      <p begin="36129.73s" end="36131.46" dur="1.73s" style="default.center" tts:direction="ltr">Watt is nu? Sechs zwanzig.</p>
+      <p begin="36131.62s" end="36134.02" dur="2.40s" style="default.center" tts:direction="ltr">Auf jeden Fall nicht für den Preis. </p>
+      <p begin="36134.18s" end="36137.51" dur="3.33s" style="default.center" tts:direction="ltr">Sassnitz' Lieferwagen hält vor einem kleinen Haus.</p>
+      <p begin="36137.67s" end="36144.47" dur="6.80s" style="default.center" tts:direction="ltr">Das Haus selber macht nicht viel her, doch alles, was vom Garten zu sehen ist, ist liebevoll gepflegt.</p>
+      <p begin="36144.63s" end="36149.30" dur="4.67s" style="default.center" tts:direction="ltr">Das war vielleicht 'ne Scheißidee, den Kaffee bei den Böhls zu kaufen.</p>
+      <p begin="36149.46s" end="36152.59" dur="3.13s" style="default.center" tts:direction="ltr">Einmal kostet das Dreckszeug da zwei Euro mehr.</p>
+      <p begin="36152.75s" end="36159.55" dur="6.80s" style="default.center" tts:direction="ltr">und dann macht mich diese dumme kleine Zicke auch noch an, bloß weil der Chef ihren Laden kaufen will.</p>
+      <p begin="36159.71s" end="36162.98" dur="3.27s" style="default.center" tts:direction="ltr">Mann Mann Mann, als wenn ich da was dafür könnte.</p>
+      <p begin="36163.14s" end="36166.61" dur="3.47s" style="default.center" tts:direction="ltr">Ich kann heute eine Stunde früher Feierabend machen.</p>
+      <p begin="36166.77s" end="36171.97" dur="5.20s" style="default.center" tts:direction="ltr">Frau Walther muss Minusstunden aufholen, weil ihr Sohn doch so lang krank war.</p>
+      <p begin="36172.13s" end="36175.46" dur="3.33s" style="default.center" tts:direction="ltr">Ja, der kleine Prinz hatte bestimmt wieder Husten.</p>
+      <p begin="36175.62s" end="36177.55" dur="1.93s" style="default.center" tts:direction="ltr">Wo kommen wir eigentlich hin.</p>
+      <p begin="36177.71s" end="36182.25" dur="4.53s" style="default.center" tts:direction="ltr">Auf jeden Fall dachte ich, ich besorg uns was Schönes zum Abendbrot.</p>
+      <p begin="36182.41s" end="36183.91" dur="1.50s" style="default.center" tts:direction="ltr">Vielleicht Seezunge.</p>
+      <p begin="36184.07s" end="36185.57" dur="1.50s" style="default.center" tts:direction="ltr">die ist im Angebot.</p>
+      <p begin="36185.73s" end="36188.66" dur="2.93s" style="default.center" tts:direction="ltr">Dann nimm gleich mehr und frier welche ein. </p>
+      <p begin="36188.82s" end="36194.35" dur="5.53s" style="default.center" tts:direction="ltr">Ich bin nur froh, wenn nächste Woche diese dämliche Brücke wieder freigegeben wird.</p>
+      <p begin="36194.51s" end="36197.65" dur="3.13s" style="default.center" tts:direction="ltr">Dann komm ich auch wieder am Supermarkt vorbei.</p>
+      <p begin="36197.81s" end="36202.47" dur="4.67s" style="default.center" tts:direction="ltr">Eiderstedt sitzt in seinem geschmackvollen Chef-Büro und telefoniert. </p>
+      <p begin="36202.63s" end="36207.30" dur="4.67s" style="default.center" tts:direction="ltr">Hören Sie, Herr Steinbach, wir verarbeiten jede Woche 35 Tonnen davon.</p>
+      <p begin="36207.46s" end="36211.66" dur="4.20s" style="default.center" tts:direction="ltr">Da können wir doch wohl von einem ganz anderen Rabatt ausgehen.</p>
+      <p begin="36211.82s" end="36216.69" dur="4.87s" style="default.center" tts:direction="ltr">Sagen Sie das dem von der Genossenschaft, mit einem schönen Gruß von mir.</p>
+      <p begin="36216.85s" end="36221.45" dur="4.60s" style="default.center" tts:direction="ltr">Sonst kaufen wir das Mehl ab nächstem Quartal bei Ihren Freunden aus.</p>
+      <p begin="36221.61s" end="36223.11" dur="1.50s" style="default.center" tts:direction="ltr">Äh.</p>
+      <p begin="36223.27s" end="36225.47" dur="2.20s" style="default.center" tts:direction="ltr">- ich ruf Sie später noch mal an.</p>
+      <p begin="36225.63s" end="36228.56" dur="2.93s" style="default.center" tts:direction="ltr">So, ihr Schnuggelchen, mit Liebe geschmiert.</p>
+      <p begin="36228.72s" end="36232.32" dur="3.60s" style="default.center" tts:direction="ltr">Und du solltest wirklich mal zum Zahnarzt gehen, Jost.</p>
+      <p begin="36232.48s" end="36236.01" dur="3.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Bin noch nicht dazu gekommen, einen Termin zu machen.</span>
+      </p>
+      <p begin="36236.17s" end="36238.51" dur="2.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Blödsinn. Du hast doch nur Schiss. </span>
+      </p>
+      <p begin="36238.67s" end="36240.93" dur="2.27s" style="default.center" tts:direction="ltr">Na, Lars, was macht die Baustelle?</p>
+      <p begin="36241.09s" end="36243.36" dur="2.27s" style="default.center" tts:direction="ltr">Nix als Ärger. Zwei Mett, zwei Ei.</p>
+      <p begin="36243.52s" end="36245.65" dur="2.13s" style="default.center" tts:direction="ltr">Und du? Äpfel? Möhren?.  Möhren.</p>
+      <p begin="36245.81s" end="36250.41" dur="4.60s" style="default.center" tts:direction="ltr">Nein, natürlich, Sie haben absolut Recht. Wir kommen sofort zu Ihnen.</p>
+      <p begin="36250.57s" end="36253.31" dur="2.73s" style="default.center" tts:direction="ltr"> Frühstückspause beendet. Es gibt Arbeit.</p>
+      <p begin="36253.47s" end="36257.27" dur="3.80s" style="default.center" tts:direction="ltr">Erpresserische Vergiftung in der Großbäckerei Eiderstedt.</p>
+      <p begin="36257.43s" end="36261.16" dur="3.73s" style="default.center" tts:direction="ltr">Lass mal die Brötchen, Heidi. Ich nehm' das Vital-Müsli.</p>
+      <p begin="36261.32s" end="36262.82" dur="1.50s" style="default.center" tts:direction="ltr">Is ja gut.</p>
+      <p begin="36262.98s" end="36264.48" dur="1.50s" style="default.center" tts:direction="ltr">Ich muss wieder los.</p>
+      <p begin="36264.64s" end="36267.64" dur="3.00s" style="default.center" tts:direction="ltr">Die Scheiß Brücke bringt alles durcheinander.</p>
+      <p begin="36267.80s" end="36269.30" dur="1.50s" style="default.center" tts:direction="ltr">Also irgendwie.</p>
+      <p begin="36269.46s" end="36272.99" dur="3.53s" style="default.center" tts:direction="ltr">haben die Dinger heute nicht so geschmeckt wie sonst.</p>
+      <p begin="36273.15s" end="36274.65" dur="1.50s" style="default.center" tts:direction="ltr">Findste nicht auch?</p>
+      <p begin="36274.81s" end="36278.21" dur="3.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> 100.000 Euro, sonst sind bald viele Menschen tot. </span>
+      </p>
+      <p begin="36278.37s" end="36285.37" dur="7.00s" style="default.center" tts:direction="ltr">Um zu zeigen, dass sie's ernst meinen, haben die vier 'Plunder-Zackies' vergiftet und mit einem roten Kreuz markiert.</p>
+      <p begin="36285.53s" end="36289.53" dur="4.00s" style="default.center" tts:direction="ltr">Die Sache darf auf keinen Fall an die Öffentlichkeit kommen.</p>
+      <p begin="36289.69s" end="36292.29" dur="2.60s" style="default.center" tts:direction="ltr">Sonst kann ich den Laden hier zumachen.</p>
+      <p begin="36292.45s" end="36297.05" dur="4.60s" style="default.center" tts:direction="ltr">Viel wichtiger ist jetzt erstmal, die Ware aus dem Verkehr zu ziehen.</p>
+      <p begin="36297.21s" end="36299.28" dur="2.07s" style="default.center" tts:direction="ltr">Bin ich doch schon längst dran.</p>
+      <p begin="36299.44s" end="36301.91" dur="2.47s" style="default.center" tts:direction="ltr">Wir telefonieren auf allen Leitungen.</p>
+      <p begin="36302.07s" end="36304.53" dur="2.47s" style="default.center" tts:direction="ltr">Die meisten Abnehmer wissen Bescheid.</p>
+      <p begin="36304.69s" end="36306.76" dur="2.07s" style="default.center" tts:direction="ltr">Und was haben Sie denen gesagt?</p>
+      <p begin="36306.92s" end="36310.79" dur="3.87s" style="default.center" tts:direction="ltr"> Geringfügige Verunreinigung durch Maschinenschmiermittel.</p>
+      <p begin="36310.95s" end="36315.15" dur="4.20s" style="default.center" tts:direction="ltr">So langsam müssten wir die gesamte Lieferung eingefangen haben.</p>
+      <p begin="36315.31s" end="36317.84" dur="2.53s" style="default.center" tts:direction="ltr">Hoffentlich ist es noch nicht zu spät.</p>
+      <p begin="36318.00s" end="36320.60" dur="2.60s" style="default.center" tts:direction="ltr">Nein, machen Sie auf jeden Fall weiter.</p>
+      <p begin="36320.76s" end="36322.26" dur="1.50s" style="default.center" tts:direction="ltr">Noch nichts gefunden.</p>
+      <p begin="36322.42s" end="36324.69" dur="2.27s" style="default.center" tts:direction="ltr">Hier nicht und draußen auch nicht.</p>
+      <p begin="36324.85s" end="36329.05" dur="4.20s" style="default.center" tts:direction="ltr"> Erinnert alles an die Sache in Lübeck vor drei Monaten, oder? </p>
+      <p begin="36329.21s" end="36330.94" dur="1.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Die Marmeladen-Erpressung.</span>
+      </p>
+      <p begin="36331.10s" end="36335.43" dur="4.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Da haben die Täter auch erst markierte Gläser in Umlauf gebracht.</span>
+      </p>
+      <p begin="36335.59s" end="36338.39" dur="2.80s" style="default.center" tts:direction="ltr">Die wurden zum Glück rechtzeitig gefunden.</p>
+      <p begin="36338.55s" end="36342.69" dur="4.13s" style="default.center" tts:direction="ltr">Aber dem Hersteller hat es trotzdem fast das Genick gebrochen.</p>
+      <p begin="36342.85s" end="36345.38" dur="2.53s" style="default.center" tts:direction="ltr">Sein Umsatz ist um 70% zurückgegangen.</p>
+      <p begin="36345.54s" end="36351.21" dur="5.67s" style="default.center" tts:direction="ltr">Und genau deswegen darf diese Sache hier auch auf keinen Fall an die Presse gelangen.</p>
+      <p begin="36351.37s" end="36353.90" dur="2.53s" style="default.center" tts:direction="ltr">Da machen Sie sich mal keine Gedanken.</p>
+      <p begin="36354.06s" end="36356.19" dur="2.13s" style="default.center" tts:direction="ltr"> Entschuldigen Sie.  Ja, Catrin?</p>
+      <p begin="36356.35s" end="36358.29" dur="1.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Jetzt warten Sie erstmal ab. </span>
+      </p>
+      <p begin="36358.45s" end="36361.58" dur="3.13s" style="default.center" tts:direction="ltr">Sie haben gut reden. Ist ja nicht Ihr Geschäft.</p>
+      <p begin="36361.74s" end="36364.41" dur="2.67s" style="default.center" tts:direction="ltr">Hannes, wir haben zwei Vergiftungsfälle.</p>
+      <p begin="36364.57s" end="36366.07" dur="1.50s" style="default.center" tts:direction="ltr">Hast du die Namen?</p>
+      <p begin="36366.23s" end="36367.76" dur="1.53s" style="default.center" tts:direction="ltr">Eva und Bernd Sassnitz.</p>
+      <p begin="36367.92s" end="36369.85" dur="1.93s" style="default.center" tts:direction="ltr">Das ist einer meiner Fahrer..</p>
+      <p begin="36370.01s" end="36374.88" dur="4.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Der alte Eiderstedt hat schon mit der industriellen Fertigung angefangen.</span>
+      </p>
+      <p begin="36375.04s" end="36380.77" dur="5.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Aber Jonas hat den Laden nach seinem Tod erst so richtig auf die Überholspur gebracht.</span>
+      </p>
+      <p begin="36380.93s" end="36384.33" dur="3.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">So ein Ich-will's-meinem-toten-Vater-beweisen-Ding?</span>
+      </p>
+      <p begin="36384.49s" end="36385.99" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Was weiß ich.</span>
+      </p>
+      <p begin="36386.15s" end="36389.82" dur="3.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Seine 'Plunder-Zackies' sind auf jeden Fall der Renner.</span>
+      </p>
+      <p begin="36389.98s" end="36392.45" dur="2.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Er erfindet ständig neue Kultrezepte.</span>
+      </p>
+      <p begin="36392.61s" end="36396.54" dur="3.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Hat schon 25 eigene Filialen und kauft fleißig weiter dazu.</span>
+      </p>
+      <p begin="36396.70s" end="36401.77" dur="5.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Und genau deswegen gibt es bestimmt einige Leute, die ihn mit Freude um 100.</span>
+      </p>
+      <p begin="36401.93s" end="36403.86" dur="1.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">000 Euro erleichtern könnten.</span>
+      </p>
+      <p begin="36404.02s" end="36405.82" dur="1.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Ich kann's sogar verstehen.</span>
+      </p>
+      <p begin="36405.98s" end="36411.71" dur="5.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Ist doch echt schade um die kleinen Bäckereien, die wegen dem auf der Strecke bleiben.</span>
+      </p>
+      <p begin="36411.87s" end="36413.37" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Und die Arbeitsplätze?</span>
+      </p>
+      <p begin="36413.53s" end="36417.80" dur="4.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Ja, die Arbeitsplätze, mit dem Argument kann man alles abbügeln.</span>
+      </p>
+      <p begin="36417.96s" end="36419.63" dur="1.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Hannes, überleg doch mal.</span>
+      </p>
+      <p begin="36419.79s" end="36424.99" dur="5.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Die ganzen kleinen Läden sterben weg, weil die Großen sie einfach plattwalzen.</span>
+      </p>
+      <p begin="36425.15s" end="36426.65" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Das geht doch nicht.</span>
+      </p>
+      <p begin="36426.81s" end="36428.31" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Find ich auch.</span>
+      </p>
+      <p begin="36428.47s" end="36432.00" dur="3.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Was wollt ihr - die freie Marktwirtschaft abschaffen?</span>
+      </p>
+      <p begin="36432.16s" end="36436.29" dur="4.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">In ein paar Jahren wird sowieso alles übers Internet bestellt.</span>
+      </p>
+      <p begin="36436.45s" end="36441.99" dur="5.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Du klickst auf deine App und schwupps kriegst du deine Schrippen direkt nach Hause.</span>
+      </p>
+      <p begin="36442.15s" end="36445.95" dur="3.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Dann bleiben alle Läden leer, die kleinen und die großen.</span>
+      </p>
+      <p begin="36446.11s" end="36448.17" dur="2.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF"> Aber das wär doch schrecklich.</span>
+      </p>
+      <p begin="36448.33s" end="36451.07" dur="2.73s" style="default.center" tts:direction="ltr">Könnten wir wieder zum Fall zurückkommen?</p>
+      <p begin="36451.23s" end="36458.23" dur="7.00s" style="default.center" tts:direction="ltr">Eiderstedt hat selbst gesagt, dass er bei seinem Expansionskurs ein paar Leuten auf die Füße getreten ist.</p>
+      <p begin="36458.39s" end="36462.32" dur="3.93s" style="default.center" tts:direction="ltr">Wir sollten alle überprüfen, deren Läden er aufgekauft hat.</p>
+      <p begin="36462.48s" end="36463.98" dur="1.50s" style="default.center" tts:direction="ltr">Hast du schon was?</p>
+      <p begin="36464.14s" end="36470.61" dur="6.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Keine Spuren am Erpresserschreiben, gängiges Papier, gängiger Kleber, Poststempel aus der Region.</span>
+      </p>
+      <p begin="36470.77s" end="36472.50" dur="1.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Giftbestimmung läuft noch.</span>
+      </p>
+      <p begin="36472.66s" end="36474.16" dur="1.50s" style="default.center" tts:direction="ltr"> Und bei dir?</p>
+      <p begin="36474.32s" end="36478.05" dur="3.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Bis jetzt nur Fingerabdrücke von Bernd und Eva Sassnitz.</span>
+      </p>
+      <p begin="36478.21s" end="36481.75" dur="3.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Die Kreuze sind mit einem Standard-Filzstift gemacht.</span>
+      </p>
+      <p begin="36481.91s" end="36486.11" dur="4.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Und das Gift  wurde mit einer Kanüle durch die Folie injiziert.</span>
+      </p>
+      <p begin="36486.27s" end="36487.77" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Hier ist der Einstich.</span>
+      </p>
+      <p begin="36487.93s" end="36491.46" dur="3.53s" style="default.center" tts:direction="ltr">Das Gift wurde also nach dem Verpacken reingespritzt.</p>
+      <p begin="36491.62s" end="36494.82" dur="3.20s" style="default.center" tts:direction="ltr">Was ist mit der Spurensicherung in der Bäckerei?</p>
+      <p begin="36494.98s" end="36498.31" dur="3.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Alles schon angeschoben. Die Kollegen sind dabei. </span>
+      </p>
+      <p begin="36498.47s" end="36501.81" dur="3.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Was sagt denn die Kontrollzeit auf der Verpackung?</span>
+      </p>
+      <p begin="36501.97s" end="36504.30" dur="2.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Wurde gestern um 18:32 verschweißt.</span>
+      </p>
+      <p begin="36504.46s" end="36508.86" dur="4.40s" style="default.center" tts:direction="ltr">Dann hatte der Täter von da an Zeit – bis zum Verladen am Morgen. </p>
+      <p begin="36509.02s" end="36511.95" dur="2.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Oder vielleicht noch danach. beim Transport.</span>
+      </p>
+      <p begin="36512.11s" end="36514.58" dur="2.47s" style="default.center" tts:direction="ltr"> Wir brauchen die Auslieferungsroute.</p>
+      <p begin="36514.74s" end="36519.14" dur="4.40s" style="default.center" tts:direction="ltr">Der Steinbach ist dran. Meckert rum wegen der Rechnung fürs Mehl. </p>
+      <p begin="36519.30s" end="36523.97" dur="4.67s" style="default.center" tts:direction="ltr"> Wir kriegen das hin, Papa. Ich treib das Geld schon auf, versprochen.</p>
+      <p begin="36524.13s" end="36527.26" dur="3.13s" style="default.center" tts:direction="ltr">Das lass nur meine Sorge sein. Ich bin da dran.</p>
+      <p begin="36527.42s" end="36531.09" dur="3.67s" style="default.center" tts:direction="ltr">Herr Steinbach, kann mein Vater Sie gleich zurückrufen?</p>
+      <p begin="36531.25s" end="36534.18" dur="2.93s" style="default.center" tts:direction="ltr">Wir haben hier grade alle Hände voll zu tun.</p>
+      <p begin="36534.34s" end="36535.84" dur="1.50s" style="default.center" tts:direction="ltr">Ja ja, zum Glück.</p>
+      <p begin="36536.00s" end="36543.00" dur="7.00s" style="default.center" tts:direction="ltr">Wenn ich nicht wüsste, dass die Kerle in U-Haft sitzen, würde ich wirklich denken, das sind dieselben Erpresser wie im Marmeladen-Fall.</p>
+      <p begin="36543.16s" end="36545.36" dur="2.20s" style="default.center" tts:direction="ltr">Gleiches Schema, gleiche Methode.</p>
+      <p begin="36545.52s" end="36549.12" dur="3.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Könnten Komplizen sein. Personen aus dem Täterumfeld. </span>
+      </p>
+      <p begin="36549.28s" end="36550.78" dur="1.50s" style="default.center" tts:direction="ltr">Oder Nachahmer.</p>
+      <p begin="36550.94s" end="36554.14" dur="3.20s" style="default.center" tts:direction="ltr">War schließlich lange genug in den Schlagzeilen.</p>
+      <p begin="36554.30s" end="36557.30" dur="3.00s" style="default.center" tts:direction="ltr">Was ist mit den Personalakten von Eiderstedt?</p>
+      <p begin="36557.46s" end="36558.96" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Sind auf'm Weg.</span>
+      </p>
+      <p begin="36559.12s" end="36560.62" dur="1.50s" style="default.center" tts:direction="ltr">Gut.</p>
+      <p begin="36560.78s" end="36563.05" dur="2.27s" style="default.center" tts:direction="ltr">Weißt du, was ich mich noch frage?</p>
+      <p begin="36563.21s" end="36569.27" dur="6.07s" style="default.center" tts:direction="ltr">Vier Teilchen werden vergiftet und alle landen bei Bernd Sassnitz - ist das nur ein Zufall?</p>
+      <p begin="36569.43s" end="36573.43" dur="4.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Seine Kollegin in der Auslieferung hat gesagt, dass er sich.</span>
+      </p>
+      <p begin="36573.59s" end="36575.09" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">was heißt das hier?</span>
+      </p>
+      <p begin="36575.25s" end="36576.75" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ah ja.</span>
+      </p>
+      <p begin="36576.91s" end="36582.98" dur="6.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">dass er wie jeden Morgen blindlings vier Plunderteilchen aus der Lieferung abgegriffen hat.</span>
+      </p>
+      <p begin="36583.14s" end="36587.54" dur="4.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Scheint so eine Art geduldete Zusatzversorgung der Fahrer zu sein.</span>
+      </p>
+      <p begin="36587.70s" end="36590.10" dur="2.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Also ich würde sagen: dumm gelaufen.</span>
+      </p>
+      <p begin="36590.26s" end="36592.13" dur="1.87s" style="default.center" tts:direction="ltr">Oder ein richtig guter Plan.</p>
+      <p begin="36592.29s" end="36594.82" dur="2.53s" style="default.center" tts:direction="ltr">Schau dir Bernd Sassnitz mal genau an.</p>
+      <p begin="36594.98s" end="36599.31" dur="4.33s" style="default.center" tts:direction="ltr">Vielleicht gibt's da ja jemanden, der was gegen ihn haben könnte.</p>
+      <p begin="36599.47s" end="36603.21" dur="3.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Blausäure. Das Gift in den Plunderstücken ist Blausäure.</span>
+      </p>
+      <p begin="36603.37s" end="36605.70" dur="2.33s" style="default.center" tts:direction="ltr">Wie bei den Marmeladen-Erpressern. </p>
+      <p begin="36605.86s" end="36607.36" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Doch ein Nachahmer?</span>
+      </p>
+      <p begin="36607.52s" end="36612.12" dur="4.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Blausäure wirkt hammerschnell und ist schon in geringer Dosis lethal.</span>
+      </p>
+      <p begin="36612.28s" end="36616.41" dur="4.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Es blockiert nämlich den Sauerstoffaustausch der Körperzellen.</span>
+      </p>
+      <p begin="36616.57s" end="36618.07" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Kripo Holstein?</span>
+      </p>
+      <p begin="36618.23s" end="36619.73" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Nein, gar nicht.</span>
+      </p>
+      <p begin="36619.89s" end="36624.03" dur="4.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">ja, leider, die Brückensperrung dauert noch bis nächste Woche.</span>
+      </p>
+      <p begin="36624.19s" end="36625.69" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Ihnen auch, tschüssi.</span>
+      </p>
+      <p begin="36625.85s" end="36632.85" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Blausäure wird in der Labormedizin, in der Metallverarbeitung und zur Ungezieferbekämpfung verwendet, ist nicht im freien Handel erhältlich, aber relativ einfach herstellbar.</span>
+      </p>
+      <p begin="36633.01s" end="36635.07" dur="2.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Aus Bittermandeln zum Beispiel.</span>
+      </p>
+      <p begin="36635.23s" end="36640.57" dur="5.33s" style="default.center" tts:direction="ltr">Hannes, du klapperst die Route ab, die Bernd Sassnitz heute Morgen gefahren ist.</p>
+      <p begin="36640.73s" end="36645.86" dur="5.13s" style="default.center" tts:direction="ltr">Vielleicht hat der Täter wirklich erst während der Auslieferung zugeschlagen.</p>
+      <p begin="36646.02s" end="36649.82" dur="3.80s" style="default.center" tts:direction="ltr">Check mal, wer unterwegs Zeit und Gelegenheit dazu hatte.</p>
+      <p begin="36649.98s" end="36654.45" dur="4.47s" style="default.center" tts:direction="ltr"> Und du durchleuchtest nochmal das Umfeld der Marmeladen-Erpresser.</p>
+      <p begin="36654.61s" end="36657.94" dur="3.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Es gibt Momente, da vermisse ich ihn tatsächlich.</span>
+      </p>
+      <p begin="36658.10s" end="36659.60" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Wen?</span>
+      </p>
+      <p begin="36659.76s" end="36661.26" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Meinen Chefsessel.</span>
+      </p>
+      <p begin="36661.42s" end="36662.92" dur="1.50s" style="default.center" tts:direction="ltr"> Frau Sassnitz? </p>
+      <p begin="36663.08s" end="36665.08" dur="2.00s" style="default.center" tts:direction="ltr">Nele Wittkamp, Kripo Holstein.</p>
+      <p begin="36665.24s" end="36667.44" dur="2.20s" style="default.center" tts:direction="ltr">Geht's Ihnen ein bisschen besser?</p>
+      <p begin="36667.60s" end="36669.10" dur="1.50s" style="default.center" tts:direction="ltr">Ja.</p>
+      <p begin="36669.26s" end="36670.76" dur="1.50s" style="default.center" tts:direction="ltr">ich hatte Glück.</p>
+      <p begin="36670.92s" end="36674.05" dur="3.13s" style="default.center" tts:direction="ltr">Ich hab nicht so viel davon gegessen wie Bernd.</p>
+      <p begin="36674.21s" end="36676.15" dur="1.93s" style="default.center" tts:direction="ltr">Er musste sich ja so beeilen.</p>
+      <p begin="36676.31s" end="36680.97" dur="4.67s" style="default.center" tts:direction="ltr">Ich müsste Ihnen ein paar Fragen stellen. Denken Sie, das ist möglich?</p>
+      <p begin="36681.13s" end="36686.67" dur="5.53s" style="default.center" tts:direction="ltr">Die Ärzte meinen, dass Sie eigentlich nach Hause gehen sollten, um sich auszuruhen.</p>
+      <p begin="36686.83s" end="36690.43" dur="3.60s" style="default.center" tts:direction="ltr">Nein, ich möchte lieber hier bleiben, bei meinem Mann.</p>
+      <p begin="36690.59s" end="36692.09" dur="1.50s" style="default.center" tts:direction="ltr">Kommen Sie.</p>
+      <p begin="36692.25s" end="36696.58" dur="4.33s" style="default.center" tts:direction="ltr">Das Gift hat Ihnen wahrscheinlich mehr zugesetzt, als Sie denken.</p>
+      <p begin="36696.74s" end="36699.07" dur="2.33s" style="default.center" tts:direction="ltr">Und hier kommen Sie nicht zur Ruhe.</p>
+      <p begin="36699.23s" end="36700.90" dur="1.67s" style="default.center" tts:direction="ltr">Ich bring Sie nach Hause.</p>
+      <p begin="36701.06s" end="36703.46" dur="2.40s" style="default.center" tts:direction="ltr">Hat Ihr Mann denn irgendwas erzählt?</p>
+      <p begin="36703.62s" end="36706.62" dur="3.00s" style="default.center" tts:direction="ltr">Hat er vielleicht einen Anhalter mitgenommen?</p>
+      <p begin="36706.78s" end="36711.38" dur="4.60s" style="default.center" tts:direction="ltr">Oder jemanden an seinem Wagen gesehen, der da nichts zu suchen hatte?</p>
+      <p begin="36711.54s" end="36715.61" dur="4.07s" style="default.center" tts:direction="ltr"> Frau Sassnitz, Sie sind die einzige, die uns da helfen kann.</p>
+      <p begin="36715.77s" end="36717.27" dur="1.50s" style="default.center" tts:direction="ltr">Ich weiß nicht.</p>
+      <p begin="36717.43s" end="36718.96" dur="1.53s" style="default.center" tts:direction="ltr">Es war alles wie immer.</p>
+      <p begin="36719.12s" end="36722.79" dur="3.67s" style="default.center" tts:direction="ltr">Er ist reingekommen, ich hatte schon den Tisch gedeckt.</p>
+      <p begin="36722.95s" end="36726.68" dur="3.73s" style="default.center" tts:direction="ltr">Und er hatte seine Plunder-Zackies dabei, wie jeden Tag.</p>
+      <p begin="36726.84s" end="36728.71" dur="1.87s" style="default.center" tts:direction="ltr">Er ist ganz verrückt danach.</p>
+      <p begin="36728.87s" end="36733.80" dur="4.93s" style="default.center" tts:direction="ltr"> Er hat jeden Tag die gleichen Teilchen mitgebracht? Wusste das irgendwer?</p>
+      <p begin="36733.96s" end="36736.69" dur="2.73s" style="default.center" tts:direction="ltr">Keine Ahnung. auf der Arbeit vielleicht. </p>
+      <p begin="36736.85s" end="36740.05" dur="3.20s" style="default.center" tts:direction="ltr">Und gibt es da jemanden, mit dem er Ärger hatte?</p>
+      <p begin="36740.21s" end="36741.71" dur="1.50s" style="default.center" tts:direction="ltr">Mit Bernd.</p>
+      <p begin="36741.87s" end="36743.37" dur="1.50s" style="default.center" tts:direction="ltr">Nein, wieso?</p>
+      <p begin="36743.53s" end="36745.03" dur="1.50s" style="default.center" tts:direction="ltr">Ich.</p>
+      <p begin="36745.19s" end="36747.99" dur="2.80s" style="default.center" tts:direction="ltr">ich versteh gar nicht, was das alles soll.</p>
+      <p begin="36748.15s" end="36750.42" dur="2.27s" style="default.center" tts:direction="ltr">Ich mach mir solche Sorgen um ihn.</p>
+      <p begin="36750.58s" end="36752.85" dur="2.27s" style="default.center" tts:direction="ltr">Vielleicht sollte ich doch wieder.</p>
+      <p begin="36753.01s" end="36756.14" dur="3.13s" style="default.center" tts:direction="ltr">Der ist ja schön. Haben Sie den von Ihrem Mann?</p>
+      <p begin="36756.30s" end="36759.03" dur="2.73s" style="default.center" tts:direction="ltr"> Was?  Nein, den hab ich selbst gemacht. </p>
+      <p begin="36759.19s" end="36760.69" dur="1.50s" style="default.center" tts:direction="ltr"> Wirklich?</p>
+      <p begin="36760.85s" end="36762.99" dur="2.13s" style="default.center" tts:direction="ltr"> Ja, ich war mal Goldschmiedin. </p>
+      <p begin="36763.15s" end="36765.81" dur="2.67s" style="default.center" tts:direction="ltr">Eine Sache war doch anders heute Morgen.</p>
+      <p begin="36765.97s" end="36769.51" dur="3.53s" style="default.center" tts:direction="ltr">Er hat auf seiner Tour angehalten und Kaffee gekauft.</p>
+      <p begin="36769.67s" end="36772.00" dur="2.33s" style="default.center" tts:direction="ltr">Aber nicht wie sonst im Supermarkt.</p>
+      <p begin="36772.16s" end="36775.09" dur="2.93s" style="default.center" tts:direction="ltr">Er musste ja wegen der Brücke anders fahren.</p>
+      <p begin="36775.25s" end="36777.45" dur="2.20s" style="default.center" tts:direction="ltr">Und wo hat er den Kaffee gekauft?</p>
+      <p begin="36777.61s" end="36779.75" dur="2.13s" style="default.center" tts:direction="ltr">Er hat's mir gesagt. Warten Sie.</p>
+      <p begin="36779.91s" end="36781.41" dur="1.50s" style="default.center" tts:direction="ltr">Hannes? Ich bin's..</p>
+      <p begin="36781.57s" end="36784.57" dur="3.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Ich wette, das sagen Sie jedem Kripobeamten.</span>
+      </p>
+      <p begin="36784.73s" end="36788.39" dur="3.67s" style="default.center" tts:direction="ltr">Ja, und damit komm ich eigentlich immer ganz gut durch.</p>
+      <p begin="36788.55s" end="36792.02" dur="3.47s" style="default.center" tts:direction="ltr">Aber jetzt sagen Sie mal: Warum fragen Sie nach dem?</p>
+      <p begin="36792.18s" end="36794.31" dur="2.13s" style="default.center" tts:direction="ltr">Hat der Sassnitz was angestellt?</p>
+      <p begin="36794.47s" end="36796.01" dur="1.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Na ja, wie man's nimmt.</span>
+      </p>
+      <p begin="36796.17s" end="36798.70" dur="2.53s" style="default.center" tts:direction="ltr">Wundern tät mich das jedenfalls nicht.</p>
+      <p begin="36798.86s" end="36801.26" dur="2.40s" style="default.center" tts:direction="ltr">So wie der sich hier aufgeführt hat.</p>
+      <p begin="36801.42s" end="36803.55" dur="2.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Wie hat er sich denn aufgeführt?</span>
+      </p>
+      <p begin="36803.71s" end="36807.85" dur="4.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Jetzt fang ich schon wieder damit an, dumme Fragen zu stellen.</span>
+      </p>
+      <p begin="36808.01s" end="36810.34" dur="2.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Muss wohl 'ne Berufskrankheit sein.</span>
+      </p>
+      <p begin="36810.50s" end="36814.17" dur="3.67s" style="default.center" tts:direction="ltr">Ist schon okay. Ziemlich daneben benommen hat er sich. </p>
+      <p begin="36814.33s" end="36817.06" dur="2.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ist er laut geworden? Oder handgreiflich?</span>
+      </p>
+      <p begin="36817.22s" end="36819.15" dur="1.93s" style="default.center" tts:direction="ltr">Knapp davor, würd' ich sagen.</p>
+      <p begin="36819.31s" end="36823.71" dur="4.40s" style="default.center" tts:direction="ltr">Dabei ist doch klar, dass wir den hier nicht mit Blumen empfangen.</p>
+      <p begin="36823.87s" end="36826.74" dur="2.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Ja klar. Weil der für Eiderstedt arbeitet.</span>
+      </p>
+      <p begin="36826.90s" end="36828.40" dur="1.50s" style="default.center" tts:direction="ltr">Für diesen Aasgeier.</p>
+      <p begin="36828.56s" end="36832.09" dur="3.53s" style="default.center" tts:direction="ltr">Wenn man sich vorstellt, dass der hier in der Gegend.</p>
+      <p begin="36832.25s" end="36834.05" dur="1.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ach, das ist reine Routine.</span>
+      </p>
+      <p begin="36834.21s" end="36839.08" dur="4.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Der Herr Sassnitz ist nämlich vergiftet worden, kurz nachdem er hier war.</span>
+      </p>
+      <p begin="36839.24s" end="36840.74" dur="1.50s" style="default.center" tts:direction="ltr">Vergiftet?</p>
+      <p begin="36840.90s" end="36844.77" dur="3.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ja, und sein Chef, der Herr Eiderstedt, der wird erpresst.</span>
+      </p>
+      <p begin="36844.93s" end="36846.66" dur="1.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Hmm, das sieht lecker aus.</span>
+      </p>
+      <p begin="36846.82s" end="36848.32" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Was ist das?</span>
+      </p>
+      <p begin="36848.48s" end="36849.98" dur="1.50s" style="default.center" tts:direction="ltr"> Mandelhörnchen.</p>
+      <p begin="36850.14s" end="36851.64" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Mit Bittermandeln?</span>
+      </p>
+      <p begin="36851.80s" end="36856.27" dur="4.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Wissen Sie was? Davon nehme ich eins. ach nein, besser gleich vier.</span>
+      </p>
+      <p begin="36856.43s" end="36858.36" dur="1.93s" style="default.center" tts:direction="ltr">Der Eiderstedt wird erpresst.</p>
+      <p begin="36858.52s" end="36862.05" dur="3.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Die Abdrücke hier waren alle an der Plunder-Maschine.</span>
+      </p>
+      <p begin="36862.21s" end="36865.21" dur="3.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Obwohl da eigentlich Handschuhe Pflicht sind.</span>
+      </p>
+      <p begin="36865.37s" end="36869.44" dur="4.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Wird 'ne Weile dauern, die mit den Angestellten abzugleichen.</span>
+      </p>
+      <p begin="36869.60s" end="36873.47" dur="3.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Übrigens, der Scanner hat schon wieder `nen Wackelkontakt.</span>
+      </p>
+      <p begin="36873.63s" end="36877.36" dur="3.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Die Hälfte der Belegschaft hat nu `nen schwarzen Daumen.</span>
+      </p>
+      <p begin="36877.52s" end="36880.72" dur="3.20s" style="default.center" tts:direction="ltr">Und ist dir bei einem von denen was aufgefallen?</p>
+      <p begin="36880.88s" end="36882.38" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Noch nicht.</span>
+      </p>
+      <p begin="36882.54s" end="36884.41" dur="1.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Wir sind ja noch mittenmang.</span>
+      </p>
+      <p begin="36884.57s" end="36887.37" dur="2.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Aber ich hab mich nach Sassnitz erkundigt.</span>
+      </p>
+      <p begin="36887.53s" end="36889.26" dur="1.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Spitzname Bernd, das Brot.</span>
+      </p>
+      <p begin="36889.42s" end="36892.69" dur="3.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Eiderstedt sagt, er ist ein zuverlässiger Fahrer.</span>
+      </p>
+      <p begin="36892.85s" end="36895.58" dur="2.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Und bei den Kollegen ist er sehr beliebt.</span>
+      </p>
+      <p begin="36895.74s" end="36897.41" dur="1.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Besonders bei den Damens.</span>
+      </p>
+      <p begin="36897.57s" end="36899.30" dur="1.73s" style="default.center" tts:direction="ltr">Ach. Ein Frauen-Versteher?</p>
+      <p begin="36899.46s" end="36900.96" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Sprecht ihr von mir? </span>
+      </p>
+      <p begin="36901.12s" end="36902.62" dur="1.50s" style="default.center" tts:direction="ltr"> Bestimmt nicht.</p>
+      <p begin="36902.78s" end="36905.25" dur="2.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Hier. Ich schmeiß trotzdem 'ne Runde.</span>
+      </p>
+      <p begin="36905.41s" end="36908.41" dur="3.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Und was deinen Frauen-Versteher angeht, Jost.</span>
+      </p>
+      <p begin="36908.57s" end="36914.70" dur="6.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Genau als die Tochter über Eiderstedt herziehen wollte, ist Papa Böhl dazwischen gegrätscht.</span>
+      </p>
+      <p begin="36914.86s" end="36918.66" dur="3.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ich sag euch, die Böhls haben ein Ding mit dem zu laufen.</span>
+      </p>
+      <p begin="36918.82s" end="36923.09" dur="4.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Und wie war's bei der Frau vom Opfer? Geht's der wieder besser?</span>
+      </p>
+      <p begin="36923.25s" end="36924.75" dur="1.50s" style="default.center" tts:direction="ltr">Körperlich ja.</p>
+      <p begin="36924.91s" end="36927.84" dur="2.93s" style="default.center" tts:direction="ltr">Aber sie ist noch ganz schön durch den Wind.</p>
+      <p begin="36928.00s" end="36929.73" dur="1.73s" style="default.center" tts:direction="ltr">Sie war mal Goldschmiedin.</p>
+      <p begin="36929.89s" end="36931.39" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Na super.</span>
+      </p>
+      <p begin="36931.55s" end="36934.09" dur="2.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ein Kraftfahrer und 'ne Goldschmiedin.</span>
+      </p>
+      <p begin="36934.25s" end="36936.78" dur="2.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Wie die sich wohl kennengelernt haben?</span>
+      </p>
+      <p begin="36936.94s" end="36942.61" dur="5.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Hallo, schöne Frau, ich wollt schon immer eine vergoldete Zylinderkopfdichtung haben.</span>
+      </p>
+      <p begin="36942.77s" end="36947.50" dur="4.73s" style="default.center" tts:direction="ltr">Vielleicht haben die sich einfach so verliebt? Soll ja vorkommen, oder?</p>
+      <p begin="36947.66s" end="36949.16" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Pff, Liebe.</span>
+      </p>
+      <p begin="36949.32s" end="36952.52" dur="3.20s" style="default.center" tts:direction="ltr"> Kein Wunder, dass das Ding dauernd kaputt ist. </p>
+      <p begin="36952.68s" end="36957.68" dur="5.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Na ja, vielleicht hat der Sassnitz ja auch vorher was ganz anderes gemacht.</span>
+      </p>
+      <p begin="36957.84s" end="36961.77" dur="3.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Bei Eiderstedt arbeitet der jedenfalls erst seit 5 Monaten.</span>
+      </p>
+      <p begin="36961.93s" end="36963.43" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Uups.</span>
+      </p>
+      <p begin="36963.59s" end="36967.99" dur="4.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Auf jeden Fall müsste morgen das zweite Erpresserschreiben kommen.</span>
+      </p>
+      <p begin="36968.15s" end="36970.49" dur="2.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Mit der Anweisung zur Geldübergabe.</span>
+      </p>
+      <p begin="36970.65s" end="36974.91" dur="4.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Wenn die Täter sich weiter so eng an den Marmeladen-Fall halten.</span>
+      </p>
+      <p begin="36975.07s" end="36979.27" dur="4.20s" style="default.center" tts:direction="ltr">Jonas Eiderstedt sitzt an seinem Schreibtisch und telefoniert. </p>
+      <p begin="36979.43s" end="36981.83" dur="2.40s" style="default.center" tts:direction="ltr">Aber er wird doch durchkommen, oder?</p>
+      <p begin="36981.99s" end="36984.79" dur="2.80s" style="default.center" tts:direction="ltr">Nein nein, ich bin nicht verwandt mit ihm.</p>
+      <p begin="36984.95s" end="36987.09" dur="2.13s" style="default.center" tts:direction="ltr">Herr Sassnitz arbeitet für mich.</p>
+      <p begin="36987.25s" end="36988.78" dur="1.53s" style="default.center" tts:direction="ltr">Noch keine Veränderung?</p>
+      <p begin="36988.94s" end="36990.44" dur="1.50s" style="default.center" tts:direction="ltr">Ja, verstehe.</p>
+      <p begin="36990.60s" end="36992.10" dur="1.50s" style="default.center" tts:direction="ltr">Danke.</p>
+      <p begin="36992.26s" end="36993.99" dur="1.73s" style="default.center" tts:direction="ltr">Wie konnte das passieren?.</p>
+      <p begin="36994.15s" end="36997.89" dur="3.73s" style="default.center" tts:direction="ltr">Sie haben mir zugesagt, dass nichts an die Presse kommt.</p>
+      <p begin="36998.05s" end="37000.45" dur="2.40s" style="default.center" tts:direction="ltr">Wir haben auch nichts herausgegeben.</p>
+      <p begin="37000.61s" end="37004.61" dur="4.00s" style="default.center" tts:direction="ltr">'Erpresser vergiften Backwaren der Großbäckerei Eiderstedt'.</p>
+      <p begin="37004.77s" end="37011.77" dur="7.00s" style="default.center" tts:direction="ltr">Das Blatt ist noch keine vier Stunden raus und schon jetzt glühen bei mir die Telefone – alles Kunden, die ihre Aufträge stornieren.</p>
+      <p begin="37011.93s" end="37015.53" dur="3.60s" style="default.center" tts:direction="ltr">Wie gesagt, wir haben nicht mit der Presse gesprochen.</p>
+      <p begin="37015.69s" end="37019.42" dur="3.73s" style="default.center" tts:direction="ltr">Hat sich denn der Erpresser noch mal bei Ihnen gemeldet?</p>
+      <p begin="37019.58s" end="37022.58" dur="3.00s" style="default.center" tts:direction="ltr">Nein, das hätte ich Ihnen doch längst gesagt.</p>
+      <p begin="37022.74s" end="37024.87" dur="2.13s" style="default.center" tts:direction="ltr">Aber das hier ist schlimm genug.</p>
+      <p begin="37025.03s" end="37028.03" dur="3.00s" style="default.center" tts:direction="ltr">Dieser Artikel ist eine Katastrophe für mich.</p>
+      <p begin="37028.19s" end="37029.93" dur="1.73s" style="default.center" tts:direction="ltr">Und für meine Mitarbeiter.</p>
+      <p begin="37030.09s" end="37032.62" dur="2.53s" style="default.center" tts:direction="ltr">Das verstehen wir ja, Herr Eiderstedt.</p>
+      <p begin="37032.78s" end="37036.45" dur="3.67s" style="default.center" tts:direction="ltr">Lassen Sie uns überlegen, wer Ihnen damit schaden will.</p>
+      <p begin="37036.61s" end="37042.81" dur="6.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Na hier steht's doch: 'Konkurrenten zweifeln Sicherheitsvorkehrungen der Firma Eiderstedt an.</span>
+      </p>
+      <p begin="37042.97s" end="37044.47" dur="1.50s" style="default.center" tts:direction="ltr"> Konkurrenten.</p>
+      <p begin="37044.63s" end="37046.13" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Hm.</span>
+      </p>
+      <p begin="37046.29s" end="37047.79" dur="1.50s" style="default.center" tts:direction="ltr">Also gut.</p>
+      <p begin="37047.95s" end="37051.88" dur="3.93s" style="default.center" tts:direction="ltr">Mit wem von denen hatten Sie zuletzt besonders viel Stress?</p>
+      <p begin="37052.04s" end="37054.11" dur="2.07s" style="default.center" tts:direction="ltr">Gab es vielleicht einen Streit?</p>
+      <p begin="37054.27s" end="37055.77" dur="1.50s" style="default.center" tts:direction="ltr"> Die Böhls. natürlich.</p>
+      <p begin="37055.93s" end="37057.79" dur="1.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Die Bäckerei in Hutzfeldt? </span>
+      </p>
+      <p begin="37057.95s" end="37059.45" dur="1.50s" style="default.center" tts:direction="ltr">Ja, die waren bei mir.</p>
+      <p begin="37059.61s" end="37061.11" dur="1.50s" style="default.center" tts:direction="ltr">Vater und Tochter.</p>
+      <p begin="37061.27s" end="37062.77" dur="1.50s" style="default.center" tts:direction="ltr">Vorgestern Abend.</p>
+      <p begin="37062.93s" end="37066.27" dur="3.33s" style="default.center" tts:direction="ltr">Ich hab ihnen ein Angebot für ihren Laden gemacht.</p>
+      <p begin="37066.43s" end="37068.09" dur="1.67s" style="default.center" tts:direction="ltr">Der Böhl ist ausgerastet.</p>
+      <p begin="37068.25s" end="37072.85" dur="4.60s" style="default.center" tts:direction="ltr">Sobald die Kleine kurz draußen war, hat er angefangen, mir zu drohen.</p>
+      <p begin="37073.01s" end="37075.75" dur="2.73s" style="default.center" tts:direction="ltr">Aber woher wissen die von der Erpressung?</p>
+      <p begin="37075.91s" end="37077.41" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Also ich.</span>
+      </p>
+      <p begin="37077.57s" end="37082.43" dur="4.87s" style="default.center" tts:direction="ltr"> Hans-Werner Böhl hat Sie bedroht? Warum haben Sie uns das nicht erzählt?</p>
+      <p begin="37082.59s" end="37086.86" dur="4.27s" style="default.center" tts:direction="ltr">Ach, das passiert mir so oft. und ich kann's ja auch verstehen. </p>
+      <p begin="37087.02s" end="37088.52" dur="1.50s" style="default.center" tts:direction="ltr">Ach ja?</p>
+      <p begin="37088.68s" end="37091.15" dur="2.47s" style="default.center" tts:direction="ltr">Der Mann wird seinen Laden verlieren.</p>
+      <p begin="37091.31s" end="37095.97" dur="4.67s" style="default.center" tts:direction="ltr">Die meisten versuchen da, sich mit ein paar heftigen Worten zu wehren.</p>
+      <p begin="37096.13s" end="37099.27" dur="3.13s" style="default.center" tts:direction="ltr">Aber irgendwann finden sich dann alle damit ab.</p>
+      <p begin="37099.43s" end="37100.93" dur="1.50s" style="default.center" tts:direction="ltr">und verkaufen.</p>
+      <p begin="37101.09s" end="37104.42" dur="3.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Anna Böhl war also zwischendurch mal kurz draußen.</span>
+      </p>
+      <p begin="37104.58s" end="37106.25" dur="1.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Anna Böhl zur Vernehmung?</span>
+      </p>
+      <p begin="37106.41s" end="37110.07" dur="3.67s" style="default.center" tts:direction="ltr">Beide zur Vernehmung. Erst den Vater, dann die Tochter.</p>
+      <p begin="37110.23s" end="37114.77" dur="4.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Und als Ihre Tochter raus war, sind Sie ihm an die Gurgel gegangen?</span>
+      </p>
+      <p begin="37114.93s" end="37117.93" dur="3.00s" style="default.center" tts:direction="ltr">Mein Kollege meint das im übertragenen Sinne.</p>
+      <p begin="37118.09s" end="37124.22" dur="6.13s" style="default.center" tts:direction="ltr">Eiderstedt möchte Ihnen den Laden wegnehmen und das wollen Sie nicht mit sich machen lassen.</p>
+      <p begin="37124.38s" end="37126.45" dur="2.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">. und da haben Sie ihn bedroht.</span>
+      </p>
+      <p begin="37126.61s" end="37128.74" dur="2.13s" style="default.center" tts:direction="ltr">Hat Herr Eiderstedt aber gesagt.</p>
+      <p begin="37128.90s" end="37134.23" dur="5.33s" style="default.center" tts:direction="ltr">Der weiß doch genau, dass wir bei seinen Niedrig-Preisen nicht mithalten können.</p>
+      <p begin="37134.39s" end="37137.33" dur="2.93s" style="default.center" tts:direction="ltr">Das ist seine Masche, um uns kleinzukriegen.</p>
+      <p begin="37137.49s" end="37140.69" dur="3.20s" style="default.center" tts:direction="ltr">Aber wir lassen uns von dem nicht fertig machen.</p>
+      <p begin="37140.85s" end="37143.98" dur="3.13s" style="default.center" tts:direction="ltr">Mein Urgroßvater war schon Bäcker in Hutzfeldt.</p>
+      <p begin="37144.14s" end="37149.07" dur="4.93s" style="default.center" tts:direction="ltr"> Wo sind Sie hingegangen, als Sie das Büro von Eiderstedt verlassen haben?</p>
+      <p begin="37149.23s" end="37154.17" dur="4.93s" style="default.center" tts:direction="ltr">Ich war auf Klo. Wird man ja wohl noch dürfen. Oder ist das etwa strafbar?</p>
+      <p begin="37154.33s" end="37160.73" dur="6.40s" style="default.center" tts:direction="ltr">Und sind Sie sicher, dass Sie dabei nicht einen kleinen Umweg durch die Fertigung gemacht haben?</p>
+      <p begin="37160.89s" end="37162.39" dur="1.50s" style="default.center" tts:direction="ltr">Nein, verdammt.</p>
+      <p begin="37162.55s" end="37167.88" dur="5.33s" style="default.center" tts:direction="ltr">Sie wussten lang genug von dem Termin bei Eiderstedt, um alles planen zu können.</p>
+      <p begin="37168.04s" end="37173.64" dur="5.60s" style="default.center" tts:direction="ltr">Ein Stift und eine Spritze, die Sie locker in Ihrer Jackentasche verstecken konnten.</p>
+      <p begin="37173.80s" end="37176.67" dur="2.87s" style="default.center" tts:direction="ltr">Keine dreißig Sekunden brauchten Sie dafür.</p>
+      <p begin="37176.83s" end="37179.56" dur="2.73s" style="default.center" tts:direction="ltr">Und Sie hatten mehr als dreißig Sekunden.</p>
+      <p begin="37179.72s" end="37181.65" dur="1.93s" style="default.center" tts:direction="ltr">Aber ich war es doch nicht.  </p>
+      <p begin="37181.81s" end="37184.28" dur="2.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Gut, dann waren Sie also nur auf Klo.</span>
+      </p>
+      <p begin="37184.44s" end="37190.64" dur="6.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Und Sie haben wirklich nichts von dem Streit zwischen Ihrem Vater und Eiderstedt mitbekommen?</span>
+      </p>
+      <p begin="37190.80s" end="37192.30" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Schon gesehen?</span>
+      </p>
+      <p begin="37192.46s" end="37195.26" dur="2.80s" style="default.center" tts:direction="ltr">Herr Böhl, wir wissen, dass Sie das waren.</p>
+      <p begin="37195.42s" end="37198.02" dur="2.60s" style="default.center" tts:direction="ltr">Wir haben mit dem Redakteur gesprochen.</p>
+      <p begin="37198.18s" end="37204.58" dur="6.40s" style="default.center" tts:direction="ltr">Herr Böhl, Sie haben gedroht, Herrn Eiderstedt fertig zu machen - und das hier ist das Ergebnis.</p>
+      <p begin="37204.74s" end="37208.87" dur="4.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Mensch, Mädel. weißt du eigentlich, wie das für uns aussieht?</span>
+      </p>
+      <p begin="37209.03s" end="37210.90" dur="1.87s" style="default.center" tts:direction="ltr">Und jetzt. wird's spannend. </p>
+      <p begin="37211.06s" end="37214.59" dur="3.53s" style="default.center" tts:direction="ltr">Sag mal bist du jetzt komplett durchgedreht oder was?</p>
+      <p begin="37214.75s" end="37216.35" dur="1.60s" style="default.center" tts:direction="ltr">Das hab ich mir gedacht.</p>
+      <p begin="37216.51s" end="37221.78" dur="5.27s" style="default.center" tts:direction="ltr">Sie hat nichts von dem Artikel gewusst - und jetzt ist sie total sauer auf ihn.</p>
+      <p begin="37221.94s" end="37225.34" dur="3.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Väter tun halt nicht immer das, was Töchter wollen.</span>
+      </p>
+      <p begin="37225.50s" end="37230.03" dur="4.53s" style="default.center" tts:direction="ltr">Und Ermittler reden manchmal zu viel, wenn sie Verdächtige befragen.</p>
+      <p begin="37230.19s" end="37237.19" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Irgendwie musste ich die Böhls doch aus der Reserve locken, nachdem der Papa seiner Tochter den Mund verboten hat.</span>
+      </p>
+      <p begin="37237.35s" end="37241.09" dur="3.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Konnt' ja nicht ahnen, dass der gleich zur Presse rennt.</span>
+      </p>
+      <p begin="37241.25s" end="37243.71" dur="2.47s" style="default.center" tts:direction="ltr">Wir müssen mit allem rechnen, Hannes.</p>
+      <p begin="37243.87s" end="37249.67" dur="5.80s" style="default.center" tts:direction="ltr">Es gibt gute Gründe, warum man bei Befragungen erstmal so wenig preis gibt wie möglich.</p>
+      <p begin="37249.83s" end="37251.33" dur="1.50s" style="default.center" tts:direction="ltr">Habt ihr die Gläser?</p>
+      <p begin="37251.49s" end="37252.99" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF"> Jost ist schon dabei.</span>
+      </p>
+      <p begin="37253.15s" end="37255.22" dur="2.07s" style="default.center" tts:direction="ltr">Gut. Dann bin ich mal kurz weg.</p>
+      <p begin="37255.38s" end="37257.85" dur="2.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00"> Die Abdrücke sind klar und deutlich.</span>
+      </p>
+      <p begin="37258.01s" end="37261.87" dur="3.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Guter Junge. Sag mal, weißt du, wo unsere Chefin hin ist?</span>
+      </p>
+      <p begin="37262.03s" end="37263.70" dur="1.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00"> Nee, wieso. Ist die weg?</span>
+      </p>
+      <p begin="37263.86s" end="37266.33" dur="2.47s" style="default.center" tts:direction="ltr">Jost, wo steckst du? Wir müssen los. </p>
+      <p begin="37266.49s" end="37267.99" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Wohin denn los?</span>
+      </p>
+      <p begin="37268.15s" end="37269.65" dur="1.50s" style="default.center" tts:direction="ltr">Na, inne Zahnklinik. </p>
+      <p begin="37269.81s" end="37273.01" dur="3.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Hast du also doch 'nen Termin gemacht? Du Held.</span>
+      </p>
+      <p begin="37273.17s" end="37276.37" dur="3.20s" style="default.center" tts:direction="ltr">Der wär in zehn Jahren noch nicht beim Zahnarzt.</p>
+      <p begin="37276.53s" end="37278.39" dur="1.87s" style="default.center" tts:direction="ltr">Den hab ich für ihn gemacht.</p>
+      <p begin="37278.55s" end="37280.09" dur="1.53s" style="default.center" tts:direction="ltr">Nu komm, nütschtja nix.</p>
+      <p begin="37280.25s" end="37284.98" dur="4.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00"> Aber. ich kann hier nicht weg. Ich muss noch die Abdrücke vergleichen.</span>
+      </p>
+      <p begin="37285.14s" end="37291.14" dur="6.00s" style="default.center" tts:direction="ltr">Die einzigen Abdrücke, um die du dich jetzt kümmern musst, sind die von deinen Beißerchen.</p>
+      <p begin="37291.30s" end="37293.03" dur="1.73s" style="default.center" tts:direction="ltr">Nu stell dich ma nicht an.</p>
+      <p begin="37293.19s" end="37297.99" dur="4.80s" style="default.center" tts:direction="ltr">Heute ist doch erst Generalprobe, richtig schlimm wird's ja erst morgen.</p>
+      <p begin="37298.15s" end="37301.95" dur="3.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ich sag Catrin Bescheid, die übernimmt das bestimmt gern.</span>
+      </p>
+      <p begin="37302.11s" end="37305.18" dur="3.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Wie sieht's denn eigentlich an der Brücke aus?</span>
+      </p>
+      <p begin="37305.34s" end="37306.84" dur="1.50s" style="default.center" tts:direction="ltr">Siebeneinhalb.</p>
+      <p begin="37307.00s" end="37311.00" dur="4.00s" style="default.center" tts:direction="ltr">Scheint eine magische Anziehungskraft zu haben, dieser Stau.</p>
+      <p begin="37311.16s" end="37315.89" dur="4.73s" style="default.center" tts:direction="ltr">Ich glaub, die kommen extra aus Hamburg rauf, um sich da reinzustellen.</p>
+      <p begin="37316.05s" end="37318.92" dur="2.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Hier steckst du. Ich stör doch nicht, oder?</span>
+      </p>
+      <p begin="37319.08s" end="37320.88" dur="1.80s" style="default.center" tts:direction="ltr"> Nee. Wie kommst du darauf?</p>
+      <p begin="37321.04s" end="37323.51" dur="2.47s" style="default.center" tts:direction="ltr">Ist echt 'ne gute Sache, diese Zelle.</p>
+      <p begin="37323.67s" end="37330.27" dur="6.60s" style="default.center" tts:direction="ltr">In meinem letzten Kommissariat musste ich immer auf die Toilette gehen, um meine Übungen zu machen.</p>
+      <p begin="37330.43s" end="37333.63" dur="3.20s" style="default.center" tts:direction="ltr">Ist gut für die Konzentration. Also, was gibt's?</p>
+      <p begin="37333.79s" end="37335.72" dur="1.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Na ja, dieser Bernd Sassnitz.</span>
+      </p>
+      <p begin="37335.88s" end="37339.41" dur="3.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">der ist schon 'ne ziemlich gespaltene Persönlichkeit.</span>
+      </p>
+      <p begin="37339.57s" end="37341.77" dur="2.20s" style="default.center" tts:direction="ltr"> Bist du jetzt Diplom-Psychologe.</p>
+      <p begin="37341.93s" end="37348.93" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Beim Job ist er total beliebt, seine Kolleginnen liegen ihm zu Füßen, Eiderstedt lobt ihn in den höchsten Tönen.</span>
+      </p>
+      <p begin="37349.09s" end="37354.83" dur="5.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Und bei den Böhls tickt er dann komplett aus und haut der armen Anna fast eine runter.</span>
+      </p>
+      <p begin="37354.99s" end="37357.45" dur="2.47s" style="default.center" tts:direction="ltr">Übertreibst du da nicht ein bisschen?</p>
+      <p begin="37357.61s" end="37359.11" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ich glaub nicht.</span>
+      </p>
+      <p begin="37359.27s" end="37365.41" dur="6.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Als Arbeitsloser war er schwer vermittelbar, weil er als 'psychologischer Problemfall' galt.</span>
+      </p>
+      <p begin="37365.57s" end="37369.70" dur="4.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Obwohl er eigentlich KFZ-Mechaniker ist und sehr qualifiziert.</span>
+      </p>
+      <p begin="37369.86s" end="37371.36" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Hier.</span>
+      </p>
+      <p begin="37371.52s" end="37373.02" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">seine Akte.</span>
+      </p>
+      <p begin="37373.18s" end="37375.18" dur="2.00s" style="default.center" tts:direction="ltr">Neun Stellen in vier Jahren.. </p>
+      <p begin="37375.34s" end="37382.34" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Und jedes Mal ist es gleich gelaufen: In der Probezeit ist alles super, und dann geht's ziemlich schnell bergab.</span>
+      </p>
+      <p begin="37382.50s" end="37385.43" dur="2.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Zu ungeduldig, zu belehrend, zu aufbrausend.</span>
+      </p>
+      <p begin="37385.59s" end="37387.09" dur="1.50s" style="default.center" tts:direction="ltr">Wer sagt das?</p>
+      <p begin="37387.25s" end="37389.12" dur="1.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Sein Berater beim Jobcenter.</span>
+      </p>
+      <p begin="37389.28s" end="37394.28" dur="5.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Irgendwo steht da sogar drin, dass er sich mit 'nem Kollegen geprügelt hat.</span>
+      </p>
+      <p begin="37394.44s" end="37400.97" dur="6.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Und als er's zwischendurch mal als Autohändler versucht hat, ist das auch nicht lang gut gegangen.</span>
+      </p>
+      <p begin="37401.13s" end="37404.60" dur="3.47s" style="default.center" tts:direction="ltr">Klingt ja nicht gerade nach einer Erfolgsbiographie.</p>
+      <p begin="37404.76s" end="37408.76" dur="4.00s" style="default.center" tts:direction="ltr">Da hat  er sich wahrscheinlich mehr als einen Feind gemacht.</p>
+      <p begin="37408.92s" end="37414.12" dur="5.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Du meinst: Doch 'ne gezielte Vergiftung und kein zufälliger Kollateralschaden?</span>
+      </p>
+      <p begin="37414.28s" end="37418.75" dur="4.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Vielleicht war's ja jemand, der Probleme mit seinen Anfällen hatte.</span>
+      </p>
+      <p begin="37418.91s" end="37422.24" dur="3.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Oder bei seinen Autodeals ist was schief gelaufen.</span>
+      </p>
+      <p begin="37422.40s" end="37424.47" dur="2.07s" style="default.center" tts:direction="ltr">Ist zumindest eine Möglichkeit.</p>
+      <p begin="37424.63s" end="37430.03" dur="5.40s" style="default.center" tts:direction="ltr">Das würde auch erklären, warum sich der Erpresser noch nicht wieder gemeldet hat.</p>
+      <p begin="37430.19s" end="37436.85" dur="6.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Und warum alle vier vergifteten Plunder-Zackies ausgerechnet bei ihm auf dem Frühstückstisch landen.</span>
+      </p>
+      <p begin="37437.01s" end="37438.61" dur="1.60s" style="default.center" tts:direction="ltr">Bleib an der Sache dran.</p>
+      <p begin="37438.77s" end="37444.91" dur="6.13s" style="default.center" tts:direction="ltr">Such nach ehemaligen Kollegen, Arbeitgebern und wer im sonst noch über den Weg gelaufen ist.</p>
+      <p begin="37445.07s" end="37447.73" dur="2.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Hörst du dann auf mit mir zu schimpfen?</span>
+      </p>
+      <p begin="37447.89s" end="37452.36" dur="4.47s" style="default.center" tts:direction="ltr">Frau Sassnitz. Schön, dass das so schnell geklappt hat. Kommen Sie.</p>
+      <p begin="37452.52s" end="37457.32" dur="4.80s" style="default.center" tts:direction="ltr">Ich hab leider nicht viel Zeit. Ich muss gleich weiter ins Krankenhaus. </p>
+      <p begin="37457.48s" end="37459.88" dur="2.40s" style="default.center" tts:direction="ltr">Ja natürlich. Es dauert nicht lang. </p>
+      <p begin="37460.04s" end="37467.04" dur="7.00s" style="default.center" tts:direction="ltr">Frau Sassnitz – wussten Sie, dass Ihr Mann gestern Morgen in der Bäckerei Böhl einen heftigen Streit hatte?</p>
+      <p begin="37467.20s" end="37468.70" dur="1.50s" style="default.center" tts:direction="ltr">Einen Streit?</p>
+      <p begin="37468.86s" end="37470.36" dur="1.50s" style="default.center" tts:direction="ltr">Ich weiß nicht.</p>
+      <p begin="37470.52s" end="37474.39" dur="3.87s" style="default.center" tts:direction="ltr">Er war ein bisschen sauer, als er nach Hause gekommen ist.</p>
+      <p begin="37474.55s" end="37477.68" dur="3.13s" style="default.center" tts:direction="ltr">Weil ihm der Kaffee bei den Böhls zu teuer war.</p>
+      <p begin="37477.84s" end="37480.24" dur="2.40s" style="default.center" tts:direction="ltr">Aber deswegen streitet man ja nicht.</p>
+      <p begin="37480.40s" end="37481.93" dur="1.53s" style="default.center" tts:direction="ltr">Nein, eigentlich nicht.</p>
+      <p begin="37482.09s" end="37483.59" dur="1.50s" style="default.center" tts:direction="ltr">Sagen Sie.</p>
+      <p begin="37483.75s" end="37486.42" dur="2.67s" style="default.center" tts:direction="ltr">Ihr Mann hatte neun Jobs in vier Jahren.</p>
+      <p begin="37486.58s" end="37490.78" dur="4.20s" style="default.center" tts:direction="ltr">Warum hatte er solche Schwierigkeiten, eine Stelle zu behalten?</p>
+      <p begin="37490.94s" end="37494.07" dur="3.13s" style="default.center" tts:direction="ltr">Es. es war wohl nie das richtige für ihn dabei.</p>
+      <p begin="37494.23s" end="37498.83" dur="4.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Nele? Kannst du mal kurz? Ist wichtig.  Ups. Bitte entschuldigen Sie.</span>
+      </p>
+      <p begin="37498.99s" end="37500.59" dur="1.60s" style="default.center" tts:direction="ltr">  Bin gleich wieder da. </p>
+      <p begin="37500.75s" end="37502.35" dur="1.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Wir haben einen Treffer.</span>
+      </p>
+      <p begin="37502.51s" end="37507.65" dur="5.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Die Fingerabdrücke, die Jost an der Maschine gefunden hat, gehören Anna Böhl.</span>
+      </p>
+      <p begin="37507.81s" end="37512.14" dur="4.33s" style="default.center" tts:direction="ltr"> Versuch mehr über ihren Mann rauszubekommen. Lass nicht locker. </p>
+      <p begin="37512.30s" end="37513.80" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF"> Ich doch nicht.</span>
+      </p>
+      <p begin="37513.96s" end="37518.23" dur="4.27s" style="default.center" tts:direction="ltr">Frau Sassnitz, es tut mir sehr leid, aber ich muss dringend weg.</p>
+      <p begin="37518.39s" end="37520.72" dur="2.33s" style="default.center" tts:direction="ltr">Meine Kollegin kümmert sich um Sie.</p>
+      <p begin="37520.88s" end="37522.38" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Mögen Sie?</span>
+      </p>
+      <p begin="37522.54s" end="37525.61" dur="3.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Ach, von dem hat meine Kollegin so geschwärmt.</span>
+      </p>
+      <p begin="37525.77s" end="37527.77" dur="2.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Der ist ja wirklich traumhaft.</span>
+      </p>
+      <p begin="37527.93s" end="37529.73" dur="1.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Und Sie sind Goldschmiedin?</span>
+      </p>
+      <p begin="37529.89s" end="37531.39" dur="1.50s" style="default.center" tts:direction="ltr">Ach, das war ich mal.</p>
+      <p begin="37531.55s" end="37535.48" dur="3.93s" style="default.center" tts:direction="ltr">Irgendwann war's mir zu viel, jeden Tag im Laden zu stehen.</p>
+      <p begin="37535.64s" end="37537.24" dur="1.60s" style="default.center" tts:direction="ltr">Die ganze Verantwortung.</p>
+      <p begin="37537.40s" end="37540.13" dur="2.73s" style="default.center" tts:direction="ltr">Da hab ich das Geschäft lieber abgegeben.</p>
+      <p begin="37540.29s" end="37544.76" dur="4.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF"> Wie schade. Aber dann haben Sie ja Ihren Mann kennengelernt, oder?</span>
+      </p>
+      <p begin="37544.92s" end="37546.42" dur="1.50s" style="default.center" tts:direction="ltr">Ja, genau.  </p>
+      <p begin="37546.58s" end="37551.38" dur="4.80s" style="default.center" tts:direction="ltr">Jetzt bin ich mal auf ihre nächste Ausrede gespannt. Von wegen aufs Klo.</p>
+      <p begin="37551.54s" end="37553.04" dur="1.50s" style="default.center" tts:direction="ltr">Frau Böhl.</p>
+      <p begin="37553.20s" end="37557.20" dur="4.00s" style="default.center" tts:direction="ltr">Wir haben Ihre Fingerabdrücke bei Herrn Eiderstedt gefunden.</p>
+      <p begin="37557.36s" end="37561.03" dur="3.67s" style="default.center" tts:direction="ltr">Allerdings nicht auf dem Klo, sondern in der Fertigung.</p>
+      <p begin="37561.19s" end="37565.59" dur="4.40s" style="default.center" tts:direction="ltr">An der Maschine, mit der die vergifteten Teilchen verpackt wurden.</p>
+      <p begin="37565.75s" end="37567.25" dur="1.50s" style="default.center" tts:direction="ltr">Scheiße.</p>
+      <p begin="37567.41s" end="37571.47" dur="4.07s" style="default.center" tts:direction="ltr">Ich bin da doch nur hin, weil ich mir das mal ansehen wollte.</p>
+      <p begin="37571.63s" end="37575.63" dur="4.00s" style="default.center" tts:direction="ltr">Mit was für Scheiß Maschinen der seine Ware zusammenstampft.</p>
+      <p begin="37575.79s" end="37578.66" dur="2.87s" style="default.center" tts:direction="ltr">Aber ich wusste, das glauben Sie mir nicht.</p>
+      <p begin="37578.82s" end="37581.55" dur="2.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Das ist auch ziemlich schwer zu glauben.</span>
+      </p>
+      <p begin="37581.71s" end="37584.71" dur="3.00s" style="default.center" tts:direction="ltr"> Und deswegen werden wir Sie jetzt mitnehmen.</p>
+      <p begin="37584.87s" end="37587.61" dur="2.73s" style="default.center" tts:direction="ltr"> Aber mit dem Gift hab ich nichts zu tun.</p>
+      <p begin="37587.77s" end="37589.27" dur="1.50s" style="default.center" tts:direction="ltr"> Papa.</p>
+      <p begin="37589.43s" end="37593.29" dur="3.87s" style="default.center" tts:direction="ltr">So. Mal sehen, wie ihm die Nacht in unserer Zelle bekommt.</p>
+      <p begin="37593.45s" end="37594.95" dur="1.50s" style="default.center" tts:direction="ltr">Danke.</p>
+      <p begin="37595.11s" end="37597.38" dur="2.27s" style="default.center" tts:direction="ltr">Das kann ich jetzt gut gebrauchen.</p>
+      <p begin="37597.54s" end="37600.14" dur="2.60s" style="default.center" tts:direction="ltr">Wusste gar nicht, dass wir sowas haben.</p>
+      <p begin="37600.30s" end="37604.30" dur="4.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Jost hat immer 'ne Kiste in der Werkstatt. Für harte Zeiten.</span>
+      </p>
+      <p begin="37604.46s" end="37607.39" dur="2.93s" style="default.center" tts:direction="ltr"> Sehr umsichtig. Hast du was von ihm gehört?</p>
+      <p begin="37607.55s" end="37611.89" dur="4.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Die erste Runde Zahnarzt hat er heldenhaft hinter sich gebracht.</span>
+      </p>
+      <p begin="37612.05s" end="37613.55" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Und, zufrieden?</span>
+      </p>
+      <p begin="37613.71s" end="37615.21" dur="1.50s" style="default.center" tts:direction="ltr">Nee, nicht wirklich. </p>
+      <p begin="37615.37s" end="37619.70" dur="4.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ich auch nicht. Ist halt so 'ne Sache mit dem Vater-Tochter-Ding.</span>
+      </p>
+      <p begin="37619.86s" end="37622.06" dur="2.20s" style="default.center" tts:direction="ltr"> Hm. Väter können schwierig sein.</p>
+      <p begin="37622.22s" end="37626.42" dur="4.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ist das so, ja? Kann ich nicht beurteilen. Ich hatte nie einen.</span>
+      </p>
+      <p begin="37626.58s" end="37629.71" dur="3.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Jedenfalls kann ich mich nicht an ihn erinnern.</span>
+      </p>
+      <p begin="37629.87s" end="37633.21" dur="3.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">War noch zu klein, als er uns sitzen gelassen hat.</span>
+      </p>
+      <p begin="37633.37s" end="37636.57" dur="3.20s" style="default.center" tts:direction="ltr"> Klingt nicht gerade nach 'ner schönen Kindheit.</p>
+      <p begin="37636.73s" end="37638.53" dur="1.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ach doch, eigentlich schon.</span>
+      </p>
+      <p begin="37638.69s" end="37641.22" dur="2.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">War vielleicht alles nicht so einfach.</span>
+      </p>
+      <p begin="37641.38s" end="37643.51" dur="2.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">aber wir hatten immer viel Spaß.</span>
+      </p>
+      <p begin="37643.67s" end="37645.17" dur="1.50s" style="default.center" tts:direction="ltr"> Spaß ist gut.</p>
+      <p begin="37645.33s" end="37646.93" dur="1.60s" style="default.center" tts:direction="ltr">Mein Vater hat Diabetes.</p>
+      <p begin="37647.09s" end="37649.09" dur="2.00s" style="default.center" tts:direction="ltr">Und er ist ein alter Sturkopp.</p>
+      <p begin="37649.25s" end="37654.39" dur="5.13s" style="default.center" tts:direction="ltr">Wenn er nur ein bisschen besser mitmachen würde bei dem, was die Ärzte sagen.</p>
+      <p begin="37654.55s" end="37656.35" dur="1.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Und bei dem, was du sagst.</span>
+      </p>
+      <p begin="37656.51s" end="37658.01" dur="1.50s" style="default.center" tts:direction="ltr"> Genau.</p>
+      <p begin="37658.17s" end="37661.90" dur="3.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Dabei tun Väter doch eigentlich alles für ihre Töchter.</span>
+      </p>
+      <p begin="37662.06s" end="37665.13" dur="3.07s" style="default.center" tts:direction="ltr">Jetzt bist du aber wieder bei den Böhls, oder?</p>
+      <p begin="37665.29s" end="37670.69" dur="5.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Findest du nicht auch, dass das Geständnis vom alten Böhl ziemlich plötzlich kam?</span>
+      </p>
+      <p begin="37670.85s" end="37674.45" dur="3.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Gerade als wir dabei sind, seine Tochter festzunehmen?</span>
+      </p>
+      <p begin="37674.61s" end="37678.54" dur="3.93s" style="default.center" tts:direction="ltr">Natürlich war das viel zu plötzlich. Der will sie schützen.</p>
+      <p begin="37678.70s" end="37682.63" dur="3.93s" style="default.center" tts:direction="ltr">Tut mir leid, Herr Böhl, aber das nehm' ich Ihnen nicht ab.</p>
+      <p begin="37682.79s" end="37688.59" dur="5.80s" style="default.center" tts:direction="ltr">An der Maschine in der Fertigung waren ausschließlich die Fingerabdrücke Ihrer Tochter.</p>
+      <p begin="37688.75s" end="37694.42" dur="5.67s" style="default.center" tts:direction="ltr">Und woher wussten Sie, dass da ein Wagen von Eiderstedt bei Ihnen vorbeikommen würde?</p>
+      <p begin="37694.58s" end="37699.65" dur="5.07s" style="default.center" tts:direction="ltr">Zufällig genau an dem Tag, nachdem Sie den Erpresserbrief geschrieben haben?</p>
+      <p begin="37699.81s" end="37704.54" dur="4.73s" style="default.center" tts:direction="ltr">Ach, und sagen Sie mir doch bitte noch mal, was in dem Brief drinstand.</p>
+      <p begin="37704.70s" end="37709.70" dur="5.00s" style="default.center" tts:direction="ltr">Aber wie Sie die Teilchen vergiftet haben, das wissen Sie schon noch, oder?</p>
+      <p begin="37709.86s" end="37711.36" dur="1.50s" style="default.center" tts:direction="ltr">Ganz einfach.</p>
+      <p begin="37711.52s" end="37713.02" dur="1.50s" style="default.center" tts:direction="ltr">Verstehe.</p>
+      <p begin="37713.18s" end="37714.68" dur="1.50s" style="default.center" tts:direction="ltr">Welches Gift denn?</p>
+      <p begin="37714.84s" end="37717.31" dur="2.47s" style="default.center" tts:direction="ltr">Und wieviele 'Dinger' waren es genau?</p>
+      <p begin="37717.47s" end="37719.87" dur="2.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00"> Verdammich, ich krieg's nicht hin..</span>
+      </p>
+      <p begin="37720.03s" end="37722.43" dur="2.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Komm schon, Großer, du schaffst das.</span>
+      </p>
+      <p begin="37722.59s" end="37726.65" dur="4.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Du bist schon so weit gekommen, jetzt ziehst du's auch durch.</span>
+      </p>
+      <p begin="37726.81s" end="37728.31" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Was zieht er durch?</span>
+      </p>
+      <p begin="37728.47s" end="37729.97" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Seine Beißerchen.</span>
+      </p>
+      <p begin="37730.13s" end="37732.67" dur="2.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Jost hat doch heute seinen Brückentag.</span>
+      </p>
+      <p begin="37732.83s" end="37737.29" dur="4.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Er ist so nervös deswegen, er hat die ganze Nacht nicht geschlafen.</span>
+      </p>
+      <p begin="37737.45s" end="37738.99" dur="1.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00"> Hör auf damit, Hannes.</span>
+      </p>
+      <p begin="37739.15s" end="37741.08" dur="1.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Natürlich zieht er das durch.</span>
+      </p>
+      <p begin="37741.24s" end="37742.74" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Du schaffst das, Jost.</span>
+      </p>
+      <p begin="37742.90s" end="37746.97" dur="4.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Und je eher du hingehst, umso schneller hast du's hinter dir.</span>
+      </p>
+      <p begin="37747.13s" end="37748.63" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00"> Bin ja schon weg.</span>
+      </p>
+      <p begin="37748.79s" end="37750.85" dur="2.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Kannst du mal kurz rüberkommen?</span>
+      </p>
+      <p begin="37751.01s" end="37754.88" dur="3.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Also hatten wir recht: Böhl wollte seine Tochter schützen.</span>
+      </p>
+      <p begin="37755.04s" end="37758.11" dur="3.07s" style="default.center" tts:direction="ltr"> Und behauptet trotzdem, dass sie's nicht war.</p>
+      <p begin="37758.27s" end="37760.27" dur="2.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Vielleicht stimmt das ja auch.</span>
+      </p>
+      <p begin="37760.43s" end="37767.43" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Eva Sassnitz hat mir doch gestern erzählt, dass sie ihren Job freiwillig an den Nagel gehängt hat, vor ihrer Hochzeit.</span>
+      </p>
+      <p begin="37767.59s" end="37773.72" dur="6.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Ich war mal so frei, das zu überprüfen: Sie war damals schon mit Bernd Sassnitz verheiratet.</span>
+      </p>
+      <p begin="37773.88s" end="37779.28" dur="5.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Und sie musste das Geschäft aufgegeben, um die Schulden ihres Mannes zu bezahlen.</span>
+      </p>
+      <p begin="37779.44s" end="37783.71" dur="4.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Nachdem der sich mit seinem Gebrauchtwagenhandel verzockt hatte.</span>
+      </p>
+      <p begin="37783.87s" end="37785.87" dur="2.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Augen auf bei der Partnerwahl.</span>
+      </p>
+      <p begin="37786.03s" end="37789.89" dur="3.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Und wusstet ihr, dass Goldschmiede mit Blausäure arbeiten?</span>
+      </p>
+      <p begin="37790.05s" end="37793.12" dur="3.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Die braucht man zur Galvanisierung von Metall.</span>
+      </p>
+      <p begin="37793.28s" end="37795.88" dur="2.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Eva Sassnitz kennt sich also damit aus.</span>
+      </p>
+      <p begin="37796.04s" end="37798.37" dur="2.33s" style="default.center" tts:direction="ltr">Also doch eine gezielte Vergiftung.</p>
+      <p begin="37798.53s" end="37802.07" dur="3.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Wegen ein paar Schulden? Das ist doch schon ewig her.</span>
+      </p>
+      <p begin="37802.23s" end="37808.36" dur="6.13s" style="default.center" tts:direction="ltr">Er hatte ja nicht nur Schulden: Seine Stimmungsschwankungen, seine unbeherrschten Ausbrüche.</p>
+      <p begin="37808.52s" end="37812.39" dur="3.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Ist bestimmt nicht einfach an der Seite von so 'nem Typen.</span>
+      </p>
+      <p begin="37812.55s" end="37815.15" dur="2.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Vielleicht hat er sie sogar geschlagen.</span>
+      </p>
+      <p begin="37815.31s" end="37819.17" dur="3.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Und ich sach' noch: Der Kraftfahrer und die Goldschmiedin.</span>
+      </p>
+      <p begin="37819.33s" end="37823.00" dur="3.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Aber wozu dann das ganze Brimborium mit der Erpressung?</span>
+      </p>
+      <p begin="37823.16s" end="37827.49" dur="4.33s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Vielleicht hat sie der Marmeladenfall erst auf die Idee gebracht.</span>
+      </p>
+      <p begin="37827.65s" end="37833.12" dur="5.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Der Ehepartner ist statistisch gesehen immer der wahrscheinlichste Täter bei Mord.</span>
+      </p>
+      <p begin="37833.28s" end="37837.75" dur="4.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Da ist es doch besser, die Kripo sucht einen Lebensmittelerpresser.</span>
+      </p>
+      <p begin="37837.91s" end="37842.17" dur="4.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Und wie befreit man sich am gründlichsten von einem Tatverdacht?</span>
+      </p>
+      <p begin="37842.33s" end="37844.93" dur="2.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Indem man sich selbst ins Knie schießt.</span>
+      </p>
+      <p begin="37845.09s" end="37846.59" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ganz alter Trick.</span>
+      </p>
+      <p begin="37846.75s" end="37851.15" dur="4.40s" style="default.center" tts:direction="ltr">Ihr Mann hat jeden Tag vier Plunderstücke mit nach Hause gebracht.</p>
+      <p begin="37851.31s" end="37854.65" dur="3.33s" style="default.center" tts:direction="ltr">Sie konnte sie dort in aller Seelenruhe vergiften.</p>
+      <p begin="37854.81s" end="37859.54" dur="4.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Nur eins verstehe ich nicht: Warum hat sie ihn nicht einfach verlassen?</span>
+      </p>
+      <p begin="37859.70s" end="37862.10" dur="2.40s" style="default.center" tts:direction="ltr">Im Vordergrund klingelt ein Telefon.</p>
+      <p begin="37862.26s" end="37863.76" dur="1.50s" style="default.center" tts:direction="ltr">Nicht da.</p>
+      <p begin="37863.92s" end="37866.45" dur="2.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Oder sie will nicht ans Telefon gehen.</span>
+      </p>
+      <p begin="37866.61s" end="37871.21" dur="4.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Kurz nach der Sache mit dem Laden ist Eva Sassnitz nach Kiel gezogen.</span>
+      </p>
+      <p begin="37871.37s" end="37874.44" dur="3.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Ich hab hier den Auszug aus dem Melderegister.</span>
+      </p>
+      <p begin="37874.60s" end="37876.73" dur="2.13s" style="default.center" tts:direction="ltr">Sie allein? Oder mit ihrem Mann?</p>
+      <p begin="37876.89s" end="37878.39" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Nur sie.</span>
+      </p>
+      <p begin="37878.55s" end="37880.05" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Sie hat ihn verlassen.</span>
+      </p>
+      <p begin="37880.21s" end="37883.15" dur="2.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Und zwei Monate später war sie wieder hier. </span>
+      </p>
+      <p begin="37883.31s" end="37889.17" dur="5.87s" style="default.center" tts:direction="ltr">Vielleicht hat sie deshalb versucht, ihn umzubringen: Sie ist nicht von ihm losgekommen.</p>
+      <p begin="37889.33s" end="37892.87" dur="3.53s" style="default.center" tts:direction="ltr">Dann hat sie jetzt keine Angst, dass ihr Mann stirbt.</p>
+      <p begin="37893.03s" end="37895.29" dur="2.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">. sondern dass er wieder aufwacht.</span>
+      </p>
+      <p begin="37895.45s" end="37896.95" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Oh Mann, wie gruselig.</span>
+      </p>
+      <p begin="37897.11s" end="37900.05" dur="2.93s" style="default.center" tts:direction="ltr"> Das Krankenhaus.  Wittkamp, Kripo Holstein?</p>
+      <p begin="37900.21s" end="37903.74" dur="3.53s" style="default.center" tts:direction="ltr"> Tach auch. Wollt ihr wissen, was Jost zum Zahnarzt.?</p>
+      <p begin="37903.90s" end="37906.37" dur="2.47s" style="default.center" tts:direction="ltr"> Wie bitte? Nein, danke. Wiederhören.</p>
+      <p begin="37906.53s" end="37908.03" dur="1.50s" style="default.center" tts:direction="ltr">Scheiße.</p>
+      <p begin="37908.19s" end="37909.69" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ist er tot?</span>
+      </p>
+      <p begin="37909.85s" end="37912.45" dur="2.60s" style="default.center" tts:direction="ltr">Das EEG zeigt Ausschläge. Er wacht auf.</p>
+      <p begin="37912.61s" end="37914.34" dur="1.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF"> Aber das ist doch super. </span>
+      </p>
+      <p begin="37914.50s" end="37918.50" dur="4.00s" style="default.center" tts:direction="ltr">Ja. Aber dasselbe haben sie auch schon seiner Frau erzählt. </p>
+      <p begin="37918.66s" end="37920.66" dur="2.00s" style="default.center" tts:direction="ltr">Sag mal, hab ich was verpasst?</p>
+      <p begin="37920.82s" end="37927.82" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Eva Sassnitz ist wahrscheinlich gerade auf dem Weg ins Krankenhaus, um ihren Mann um die Ecke zu bringen.</span>
+      </p>
+      <p begin="37927.98s" end="37932.25" dur="4.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">Und das Dumme ist: Sie wohnt auf der richtigen Seite der Brücke.</span>
+      </p>
+      <p begin="37932.41s" end="37933.91" dur="1.50s" style="default.center" tts:direction="ltr">Au verdammt.</p>
+      <p begin="37934.07s" end="37937.33" dur="3.27s" style="default.center" tts:direction="ltr">Lars nimmt mit Dacapo die Abkürzung querfeldein. </p>
+      <p begin="37937.49s" end="37940.29" dur="2.80s" style="default.center" tts:direction="ltr">Lars reitet weiter im gestreckten Galopp. </p>
+      <p begin="37940.45s" end="37941.95" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00"> Tun Sie das nicht.</span>
+      </p>
+      <p begin="37942.11s" end="37943.98" dur="1.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ick bün all dor, mein Hase. </span>
+      </p>
+      <p begin="37944.14s" end="37946.87" dur="2.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Was soll ich sagen? War ganz schön knapp.</span>
+      </p>
+      <p begin="37947.03s" end="37950.63" dur="3.60s" style="default.center" tts:direction="ltr">ich bin einfach hingefahren und hab alle abgeklappert.</p>
+      <p begin="37950.79s" end="37957.79" dur="7.00s" style="default.center" tts:direction="ltr">Jedenfalls beliefern wir ab nächsten Ersten fünf große Hotels in Timmendorfer Strand mit Brot und Brötchen.</p>
+      <p begin="37957.95s" end="37959.55" dur="1.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Wundert mich gar nicht. </span>
+      </p>
+      <p begin="37959.71s" end="37963.38" dur="3.67s" style="default.center" tts:direction="ltr">Wenn sich das rumspricht, kommen sicher noch mehr dazu.</p>
+      <p begin="37963.54s" end="37967.87" dur="4.33s" style="default.center" tts:direction="ltr">Und Herr Eiderstedt wird Sie sicher auch erst mal in Ruhe lassen.</p>
+      <p begin="37968.03s" end="37970.10" dur="2.07s" style="default.center" tts:direction="ltr">Der hat gerade eigene Probleme.</p>
+      <p begin="37970.26s" end="37973.26" dur="3.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">  Eine Kette aus Hamburg will ihn schlucken. </span>
+      </p>
+      <p begin="37973.42s" end="37978.42" dur="5.00s" style="default.center" tts:direction="ltr">Tja – gut für die kleinen, wenn die großen Fische sich gegenseitig fressen.</p>
+      <p begin="37978.58s" end="37981.98" dur="3.40s" style="default.center" tts:direction="ltr">�Bilderliste 'Süßer Tod' – Drehfassung vom 24.04.14</p>
+    </div>
+  </body>
+</tt>

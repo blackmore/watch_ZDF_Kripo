@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- file created by nigel.blackmore@titelbild.de -->
+<tt xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:tts="http://www.w3.org/2006/10/ttaf1#styling">
+  <head>
+    <styling>
+      <style xml:id="default.left" tts:fontFamily="Arial" tts:fontSize="10px" tts:textAlign="left" tts:fontStyle="normal" tts:fontWeight="normal" tts:backgroundColor="transparent" tts:color="#FFFFFF"/>
+      <style xml:id="default.center" style="default.left" tts:textAlign="center"/>
+      <style xml:id="default.right" style="default.left" tts:textAlign="right"/>
+    </styling>
+  </head>
+  <body>
+    <div>
+      <p begin="36000.00s" end="36001.50" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">NELE WITTKAMP </span>
+      </p>
+      <p begin="36001.66s" end="36003.16" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FF00FF">GRUN REEDMACHER </span>
+      </p>
+      <p begin="36003.32s" end="36004.82" dur="1.50s" style="default.center" tts:direction="ltr">HEIDI LÜRSEN</p>
+      <p begin="36004.98s" end="36010.11" dur="5.13s" style="default.center" tts:direction="ltr">THEO DÄNEKAS, 45 – Gastwirt, erfolgloser Betreiber der Landdisko 'Popscheune'</p>
+      <p begin="36010.27s" end="36017.27" dur="7.00s" style="default.center" tts:direction="ltr">Von einem Dorfplatz , auf der ein Grillstand, sowie ein DJ-Pult mit simpler Lichtorgel und einer kleinen Tanzfläche zu sehen sind, erklingt basslastige Tanzmusik.</p>
+      <p begin="36017.43s" end="36022.30" dur="4.87s" style="default.center" tts:direction="ltr">Genau, nimm noch mal 'nen Lütten. Dann sieht die Welt gleich besser aus. </p>
+      <p begin="36022.46s" end="36023.96" dur="1.50s" style="default.center" tts:direction="ltr">Danke.</p>
+      <p begin="36024.12s" end="36029.45" dur="5.33s" style="default.center" tts:direction="ltr">Halten Sie sich bitte zur Verfügung, falls wir noch weitere Fragen an Sie haben.</p>
+      <p begin="36029.61s" end="36034.55" dur="4.93s" style="default.center" tts:direction="ltr">Querschläger. Oder Fehlschüsse. Zum Glück gab's keine weiteren Verletzten.</p>
+      <p begin="36034.71s" end="36038.64" dur="3.93s" style="default.center" tts:direction="ltr">Alles in Ordnung? Sie sind ein bisschen blass um die Nase. </p>
+      <p begin="36038.80s" end="36042.33" dur="3.53s" style="default.center" tts:direction="ltr"> Das tut mir leid. War das etwa ein Freund von Ihnen?</p>
+      <p begin="36042.49s" end="36044.89" dur="2.40s" style="default.center" tts:direction="ltr"> Tja. Augen auf bei der Berufswahl. </p>
+      <p begin="36045.05s" end="36046.55" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Es ist spät geworden. </span>
+      </p>
+      <p begin="36046.71s" end="36049.51" dur="2.80s" style="default.center" tts:direction="ltr">Und lebst scheinbar ganz schön gefährlich.</p>
+      <p begin="36049.67s" end="36054.47" dur="4.80s" style="default.center" tts:direction="ltr">Wer von sich selbst zu überzeugt ist, macht sich leicht ein paar Feinde.</p>
+      <p begin="36054.63s" end="36056.50" dur="1.87s" style="default.center" tts:direction="ltr">Notrufzentrale, guten Abend.</p>
+      <p begin="36056.66s" end="36059.66" dur="3.00s" style="default.center" tts:direction="ltr">Hallo? Könnten Sie etwas deutlicher sprechen?</p>
+      <p begin="36059.82s" end="36062.49" dur="2.67s" style="default.center" tts:direction="ltr">Und scheinbar ein bisschen Ärger gehabt.</p>
+      <p begin="36062.65s" end="36065.11" dur="2.47s" style="default.center" tts:direction="ltr">Vielleicht kannte er seinen Besucher.</p>
+      <p begin="36065.27s" end="36069.07" dur="3.80s" style="default.center" tts:direction="ltr">Wir brauchen sämtliche Verbindungsdaten von seinem Handy.</p>
+      <p begin="36069.23s" end="36073.10" dur="3.87s" style="default.center" tts:direction="ltr"> Was wissen wir über diesen.na gut, nennen wir ihn Shorty?</p>
+      <p begin="36073.26s" end="36074.76" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Lara Lace?</span>
+      </p>
+      <p begin="36074.92s" end="36077.52" dur="2.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Von einer Lara hat Lars vorhin erzählt.</span>
+      </p>
+      <p begin="36077.68s" end="36079.41" dur="1.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Die war auch auf dem Fest.</span>
+      </p>
+      <p begin="36079.57s" end="36081.31" dur="1.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Gab wohl' n bisschen Zoff.</span>
+      </p>
+      <p begin="36081.47s" end="36082.97" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Mit ihrem Verlobten.</span>
+      </p>
+      <p begin="36083.13s" end="36085.13" dur="2.00s" style="default.center" tts:direction="ltr">Hier dürften wir richtig sein.</p>
+      <p begin="36085.29s" end="36088.75" dur="3.47s" style="default.center" tts:direction="ltr">Sie sind also Musiker? Oder wie soll man das nennen?</p>
+      <p begin="36088.91s" end="36090.41" dur="1.50s" style="default.center" tts:direction="ltr">Wie DJ Shorty.  </p>
+      <p begin="36090.57s" end="36094.64" dur="4.07s" style="default.center" tts:direction="ltr">Dann waren Sie so etwas wie Kollegen. Oder.eher Konkurrenten?</p>
+      <p begin="36094.80s" end="36100.07" dur="5.27s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Die ja inzwischen denken muss, ihr beide hättet ein paar Geheimnisse zu klären.</span>
+      </p>
+      <p begin="36100.23s" end="36103.03" dur="2.80s" style="default.center" tts:direction="ltr">Das konnten Sie natürlich nicht zulassen. </p>
+      <p begin="36103.19s" end="36106.52" dur="3.33s" style="default.center" tts:direction="ltr">Und dann?  Haben Sie eine richtige Szene gemacht. </p>
+      <p begin="36106.68s" end="36108.18" dur="1.50s" style="default.center" tts:direction="ltr">Warum denn das?</p>
+      <p begin="36108.34s" end="36112.21" dur="3.87s" style="default.center" tts:direction="ltr">Weil sie es genossen hat, dass jemand charmant zu ihr ist?</p>
+      <p begin="36112.37s" end="36114.77" dur="2.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">So kann man's natürlich auch nennen.</span>
+      </p>
+      <p begin="36114.93s" end="36116.43" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Er war eifersüchtig.</span>
+      </p>
+      <p begin="36116.59s" end="36118.99" dur="2.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Vielleicht ja nicht ganz ohne Grund.</span>
+      </p>
+      <p begin="36119.15s" end="36120.65" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Lara Lace?</span>
+      </p>
+      <p begin="36120.81s" end="36122.94" dur="2.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Sie kannten Shorty offenbar gut.</span>
+      </p>
+      <p begin="36123.10s" end="36124.90" dur="1.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Und Shorty hat das erkannt.</span>
+      </p>
+      <p begin="36125.06s" end="36127.13" dur="2.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Scheint ihm gefallen zu haben. </span>
+      </p>
+      <p begin="36127.29s" end="36128.79" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Wow.</span>
+      </p>
+      <p begin="36128.95s" end="36130.75" dur="1.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Klingt ziemlich abtörnend.</span>
+      </p>
+      <p begin="36130.91s" end="36132.41" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Er hat Sie verheizt.</span>
+      </p>
+      <p begin="36132.57s" end="36135.23" dur="2.67s" style="default.center" tts:direction="ltr"> Ach wirklich? Und was macht man da so? </p>
+      <p begin="36135.39s" end="36136.89" dur="1.50s" style="default.center" tts:direction="ltr"> Sie Glücklicher. </p>
+      <p begin="36137.05s" end="36138.55" dur="1.50s" style="default.center" tts:direction="ltr">Ganz schön ehrgeizig.</p>
+      <p begin="36138.71s" end="36142.18" dur="3.47s" style="default.center" tts:direction="ltr">Dabei sind doch schon auf so vielen Gebieten spitze.</p>
+      <p begin="36142.34s" end="36144.21" dur="1.87s" style="default.center" tts:direction="ltr">Sie sind ein Meisterschütze.</p>
+      <p begin="36144.37s" end="36150.70" dur="6.33s" style="default.center" tts:direction="ltr">Bei den Schönwalder Jagdfreunden gewinnen Sie im Distanzschießen einen Preis nach dem nächsten.</p>
+      <p begin="36150.86s" end="36154.13" dur="3.27s" style="default.center" tts:direction="ltr">Ich glaube, Sie verlieren schnell mal die Nerven.</p>
+      <p begin="36154.29s" end="36157.82" dur="3.53s" style="default.center" tts:direction="ltr">Wenn Sie Angst bekommen, dass man Ihnen was wegnimmt.</p>
+      <p begin="36157.98s" end="36159.48" dur="1.50s" style="default.center" tts:direction="ltr">Ihre Verlobte.</p>
+      <p begin="36159.64s" end="36161.14" dur="1.50s" style="default.center" tts:direction="ltr">Ihren Ruhm.</p>
+      <p begin="36161.30s" end="36162.80" dur="1.50s" style="default.center" tts:direction="ltr">Ihren Respekt.</p>
+      <p begin="36162.96s" end="36165.56" dur="2.60s" style="default.center" tts:direction="ltr"> Was soll das? Was haben Sie damit vor?</p>
+      <p begin="36165.72s" end="36170.45" dur="4.73s" style="default.center" tts:direction="ltr">Kriminaltechnische Untersuchung. Reine Routine. Sie kriegen es wieder. </p>
+      <p begin="36170.61s" end="36172.55" dur="1.93s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">IM WECHSELSCHNITT MIT BILD 22</span>
+      </p>
+      <p begin="36172.71s" end="36174.21" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Und?</span>
+      </p>
+      <p begin="36174.37s" end="36175.87" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Wie ist die Lage?</span>
+      </p>
+      <p begin="36176.03s" end="36183.03" dur="7.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Warum ich eigentlich anruf': Die Patronenhülsen, die ihr gefunden habt, passen genau zur Kugel in Shortys Kopf.</span>
+      </p>
+      <p begin="36183.19s" end="36184.69" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Volltreffer.</span>
+      </p>
+      <p begin="36184.85s" end="36186.35" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Bitte?</span>
+      </p>
+      <p begin="36186.51s" end="36188.01" dur="1.50s" style="default.center" tts:direction="ltr">Die Jagdfreunde. </p>
+      <p begin="36188.17s" end="36191.30" dur="3.13s" style="default.center" tts:direction="ltr"> Sie haben bei den Festvorbereitungen geholfen?</p>
+      <p begin="36191.46s" end="36192.96" dur="1.50s" style="default.center" tts:direction="ltr"> Und weiter?</p>
+      <p begin="36193.12s" end="36195.85" dur="2.73s" style="default.center" tts:direction="ltr">Der Einsatzwagen parkt vorm Kommissariat.</p>
+      <p begin="36196.01s" end="36198.81" dur="2.80s" style="default.center" tts:direction="ltr">Die Kamera verdichtet vor die Eingangstür.</p>
+      <p begin="36198.97s" end="36203.84" dur="4.87s" style="default.center" tts:direction="ltr">Nicht gesehen? Auch Inge Dänekas riskiert wohl gerne mal 'ne dicke Lippe.</p>
+      <p begin="36204.00s" end="36206.87" dur="2.87s" style="default.center" tts:direction="ltr"> Mahlzeit. Na? Kleinen Spaziergang gemacht?</p>
+      <p begin="36207.03s" end="36209.43" dur="2.40s" style="default.center" tts:direction="ltr">Ich hatte einen Anruf zu erledigen. </p>
+      <p begin="36209.59s" end="36211.79" dur="2.20s" style="default.center" tts:direction="ltr"> Hoffentlich nichts Unangenehmes.</p>
+      <p begin="36211.95s" end="36213.45" dur="1.50s" style="default.center" tts:direction="ltr">Ein Wildschwein.</p>
+      <p begin="36213.61s" end="36215.11" dur="1.50s" style="default.center" tts:direction="ltr">' N Frischling.</p>
+      <p begin="36215.27s" end="36216.77" dur="1.50s" style="default.center" tts:direction="ltr">Glatter Blattschuss.</p>
+      <p begin="36216.93s" end="36220.26" dur="3.33s" style="default.center" tts:direction="ltr">Damit Sie mal sehen, womit ich mich so rumschlag'.</p>
+      <p begin="36220.42s" end="36221.92" dur="1.50s" style="default.center" tts:direction="ltr"> Wilderer.</p>
+      <p begin="36222.08s" end="36223.58" dur="1.50s" style="default.center" tts:direction="ltr">Am Bungsberg?</p>
+      <p begin="36223.74s" end="36228.21" dur="4.47s" style="default.center" tts:direction="ltr">Da ist doch auch der Waldparkplatz, auf dem Shorty übernachtet hat.</p>
+      <p begin="36228.37s" end="36229.87" dur="1.50s" style="default.center" tts:direction="ltr">Hier .</p>
+      <p begin="36230.03s" end="36231.53" dur="1.50s" style="default.center" tts:direction="ltr">Genau dieselbe Ecke.</p>
+      <p begin="36231.69s" end="36236.29" dur="4.60s" style="default.center" tts:direction="ltr">Genau.  Wann haben wir endlich die Verbindungsdaten von seinem Handy?</p>
+      <p begin="36236.45s" end="36240.05" dur="3.60s" style="default.center" tts:direction="ltr"> Er wird geblitzt. Und lässt die Radarfalle mitgehen. </p>
+      <p begin="36240.21s" end="36241.71" dur="1.50s" style="default.center" tts:direction="ltr">.  Samstag. ich weiß.</p>
+      <p begin="36241.87s" end="36244.00" dur="2.13s" style="default.center" tts:direction="ltr">Ein neuer Morgen in Altenkrempe.</p>
+      <p begin="36244.16s" end="36246.56" dur="2.40s" style="default.center" tts:direction="ltr"> Das ging ja schneller als erwartet.</p>
+      <p begin="36246.72s" end="36250.92" dur="4.20s" style="default.center" tts:direction="ltr">HEIKO sitzt vor seinem Studioequipment und wippt zum Sound mit.</p>
+      <p begin="36251.08s" end="36252.81" dur="1.73s" style="default.center" tts:direction="ltr">Er ist mit sich zufrieden.</p>
+      <p begin="36252.97s" end="36255.31" dur="2.33s" style="default.center" tts:direction="ltr">Was, was, was? Was redest du denn? </p>
+      <p begin="36255.47s" end="36257.40" dur="1.93s" style="default.center" tts:direction="ltr">Was ist das? Was hast Du da? </p>
+      <p begin="36257.56s" end="36262.16" dur="4.60s" style="default.center" tts:direction="ltr">Geschwindigkeitsüberschreitung innerhalb einer geschlossen Ortschaft.</p>
+      <p begin="36262.32s" end="36264.25" dur="1.93s" style="default.center" tts:direction="ltr">Das ist kein Kavaliersdelikt.</p>
+      <p begin="36264.41s" end="36265.91" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Ganz locker bleiben..</span>
+      </p>
+      <p begin="36266.07s" end="36271.14" dur="5.07s" style="default.center" tts:direction="ltr">Diese Aufnahme wurde vor zwei Nächten am Ortseingang von Schönwalde gemacht.</p>
+      <p begin="36271.30s" end="36275.43" dur="4.13s" style="default.center" tts:direction="ltr">Um zwei Uhr vierzehn. Wohin des Weges, so spät in der Nacht?  </p>
+      <p begin="36275.59s" end="36281.39" dur="5.80s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Und diese Aufnahme wurde vor fünf Minuten von unseren Kollegen in Ihrer Garage gemacht.</span>
+      </p>
+      <p begin="36281.55s" end="36283.05" dur="1.50s" style="default.center" tts:direction="ltr">Natürlich.</p>
+      <p begin="36283.21s" end="36289.21" dur="6.00s" style="default.center" tts:direction="ltr">Wir haben die Kamerabilder manipuliert und den Blitzer heimlich in ihrer Garage deponiert.</p>
+      <p begin="36289.37s" end="36295.04" dur="5.67s" style="default.center" tts:direction="ltr">Vielleicht hat ihnen nicht gefallen, dass Lara wieder Kontakt zu ihm aufgenommen hat.</p>
+      <p begin="36295.20s" end="36296.70" dur="1.50s" style="default.center" tts:direction="ltr">Oder er zu ihr.</p>
+      <p begin="36296.86s" end="36300.13" dur="3.27s" style="default.center" tts:direction="ltr">Vielleicht wollten sie ihm eine Lektion erteilen.</p>
+      <p begin="36300.29s" end="36302.89" dur="2.60s" style="default.center" tts:direction="ltr">Eifersüchtig, wie Sie ja offenbar sind.</p>
+      <p begin="36303.05s" end="36307.91" dur="4.87s" style="default.center" tts:direction="ltr">Sie wären nicht der erste, der aus verletztem Stolz die Fassung verliert.</p>
+      <p begin="36308.07s" end="36311.74" dur="3.67s" style="default.center" tts:direction="ltr">Wer weiß, was wir in Ihrer Garage noch so alles finden.</p>
+      <p begin="36311.90s" end="36315.63" dur="3.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Wir haben die Daten von Shortys Telefon auslesen können.</span>
+      </p>
+      <p begin="36315.79s" end="36317.66" dur="1.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Er hat einen Anruf erhalten.</span>
+      </p>
+      <p begin="36317.82s" end="36319.69" dur="1.87s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">In der Nacht vor seinem Tod.</span>
+      </p>
+      <p begin="36319.85s" end="36321.35" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Von ihrem Handy.</span>
+      </p>
+      <p begin="36321.51s" end="36325.51" dur="4.00s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Wir müssen nur die Bilder der mobilen Radaranlage auswerten.</span>
+      </p>
+      <p begin="36325.67s" end="36329.27" dur="3.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Dann wissen wir doch eh, wer am Steuer des Wagens saß.</span>
+      </p>
+      <p begin="36329.43s" end="36331.49" dur="2.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Haben Sie ihm das nicht gesagt?</span>
+      </p>
+      <p begin="36331.65s" end="36333.32" dur="1.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Ziemlich unprofessionell.</span>
+      </p>
+      <p begin="36333.48s" end="36336.68" dur="3.20s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Was ist passiert? In der Nacht vor Shortys Tod?</span>
+      </p>
+      <p begin="36336.84s" end="36339.97" dur="3.13s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Und Sie wussten, dass Shorty in der Gegend war.</span>
+      </p>
+      <p begin="36340.13s" end="36344.53" dur="4.40s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Und auf dem Weg dahin sind Sie auf der Landstraße geblitzt worden.</span>
+      </p>
+      <p begin="36344.69s" end="36346.19" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Ein bisschen schon.</span>
+      </p>
+      <p begin="36346.35s" end="36349.02" dur="2.67s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Hat sich der Ausflug wenigstens gelohnt?</span>
+      </p>
+      <p begin="36349.18s" end="36351.78" dur="2.60s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Was hat Shorty zu den Aufnahmen gesagt?</span>
+      </p>
+      <p begin="36351.94s" end="36353.44" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00"> Was für ein Auto?</span>
+      </p>
+      <p begin="36353.60s" end="36356.53" dur="2.93s" style="default.center" tts:direction="ltr">Der Einsatzwagen parkt vor dem Kommissariat.</p>
+      <p begin="36356.69s" end="36358.96" dur="2.27s" style="default.center" tts:direction="ltr">Worum mag's da wohl gegangen sein?</p>
+      <p begin="36359.12s" end="36361.45" dur="2.33s" style="default.center" tts:direction="ltr">Was wollten Sie da draußen im Wald?</p>
+      <p begin="36361.61s" end="36363.21" dur="1.60s" style="default.center" tts:direction="ltr">Brauchten Sie Nachschub?</p>
+      <p begin="36363.37s" end="36366.04" dur="2.67s" style="default.center" tts:direction="ltr">Für die guten hausgemachten Frikadellen?</p>
+      <p begin="36366.20s" end="36367.70" dur="1.50s" style="default.center" tts:direction="ltr">Und die edlen Stücke?</p>
+      <p begin="36367.86s" end="36370.13" dur="2.27s" style="default.center" tts:direction="ltr">Gingen vielleicht an ihren Bruder.</p>
+      <p begin="36370.29s" end="36372.29" dur="2.00s" style="default.center" tts:direction="ltr">Hübsches Zubrot, die Wilderei.</p>
+      <p begin="36372.45s" end="36375.38" dur="2.93s" style="default.center" tts:direction="ltr">Woher haben sie das Gewehr? Illegal besorgt?</p>
+      <p begin="36375.54s" end="36377.04" dur="1.50s" style="default.center" tts:direction="ltr">Sie sind eingebrochen.</p>
+      <p begin="36377.20s" end="36378.70" dur="1.50s" style="default.center" tts:direction="ltr">Und dann?</p>
+      <p begin="36378.86s" end="36380.99" dur="2.13s" style="default.center" tts:direction="ltr">Der alte Streit. Ums liebe Geld.</p>
+      <p begin="36381.15s" end="36382.69" dur="1.53s" style="default.center" tts:direction="ltr">Jetzt mal ganz ehrlich.</p>
+      <p begin="36382.85s" end="36384.85" dur="2.00s" style="default.center" tts:direction="ltr">Das war doch sein gutes Recht.</p>
+      <p begin="36385.01s" end="36387.21" dur="2.20s" style="default.center" tts:direction="ltr">So was nennt man Geschäftsrisiko.</p>
+      <p begin="36387.37s" end="36389.50" dur="2.13s" style="default.center" tts:direction="ltr">Sie konnten nicht drüber lachen.</p>
+      <p begin="36389.66s" end="36393.19" dur="3.53s" style="default.center" tts:direction="ltr">Er hat die Polizei angerufen. Wir haben die Aufnahme.</p>
+      <p begin="36393.35s" end="36397.75" dur="4.40s" style="default.center" tts:direction="ltr">Und dieses Risiko war Ihnen zu groß. Auf Wilderei steht Gefängnis.</p>
+      <p begin="36397.91s" end="36404.31" dur="6.40s" style="default.center" tts:direction="ltr">Für einen professionellen Wilderer haben Sie sich aber ein paar peinliche Fehlschüsse geleistet.</p>
+      <p begin="36404.47s" end="36408.07" dur="3.60s" style="default.center" tts:direction="ltr">Es hätten noch mehr Menschen zu Schaden kommen können.</p>
+      <p begin="36408.23s" end="36409.77" dur="1.53s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Du magst ihn. Stimmt's?</span>
+      </p>
+      <p begin="36409.93s" end="36411.66" dur="1.73s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ist 'n Teil meiner Jugend.</span>
+      </p>
+      <p begin="36411.82s" end="36413.32" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Er und Inge.</span>
+      </p>
+      <p begin="36413.48s" end="36415.95" dur="2.47s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Ist jetzt irgendwie endgültig vorbei.</span>
+      </p>
+      <p begin="36416.11s" end="36417.61" dur="1.50s" style="default.center" tts:direction="ltr">
+        <span tts:color="#00FF00">Merk ich gerade.</span>
+      </p>
+      <p begin="36417.77s" end="36420.57" dur="2.80s" style="default.center" tts:direction="ltr">Was denkt ihr?  Trauen Sie ihm die Tat zu?</p>
+      <p begin="36420.73s" end="36422.59" dur="1.87s" style="default.center" tts:direction="ltr">Nehmen Sie die Waffe runter.</p>
+      <p begin="36422.75s" end="36426.62" dur="3.87s" style="default.center" tts:direction="ltr">Wenn ihr Gewehr losgeht, gibt's einen ziemlichen Rückstoß.</p>
+      <p begin="36426.78s" end="36428.65" dur="1.87s" style="default.center" tts:direction="ltr">Sie könnten verletzt werden.</p>
+      <p begin="36428.81s" end="36430.61" dur="1.80s" style="default.center" tts:direction="ltr">Wie schon beim letzten Mal.</p>
+      <p begin="36430.77s" end="36432.83" dur="2.07s" style="default.center" tts:direction="ltr">
+        <span tts:color="#FFFF00">Das Kommissariat im Abendlicht.</span>
+      </p>
+      <p begin="36432.99s" end="36434.49" dur="1.50s" style="default.center" tts:direction="ltr">Also, gut.</p>
+      <p begin="36434.65s" end="36436.15" dur="1.50s" style="default.center" tts:direction="ltr">Ich bin Nele.</p>
+      <p begin="36436.31s" end="36437.81" dur="1.50s" style="default.center" tts:direction="ltr">Ab heute.</p>
+      <p begin="36437.97s" end="36439.47" dur="1.50s" style="default.center" tts:direction="ltr">Für jeden von euch.</p>
+      <p begin="36439.63s" end="36441.57" dur="1.93s" style="default.center" tts:direction="ltr">Aber es bleibt professionell.</p>
+      <p begin="36441.73s" end="36443.53" dur="1.80s" style="default.center" tts:direction="ltr">Wird es das, was ich denke?</p>
+      <p begin="36443.69s" end="36448.29" dur="4.60s" style="default.center" tts:direction="ltr">BILDERLISTE 'Blood op de Danzdeel – 3. drehbuchfassung vom 14.04.2014</p>
+    </div>
+  </body>
+</tt>
